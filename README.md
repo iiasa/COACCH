@@ -2,7 +2,7 @@
 
 # Data Index Site for COACCH
 
-Uses Sphinx and GitHub action.
+Uses Sphinx and GitHub actions. Zenodo instructions and indexing remains to-do.
 
 For more information, see this article
 
