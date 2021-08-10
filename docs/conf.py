@@ -19,9 +19,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'helloWorld'
-copyright = '2020, Michael Altfield'
-author = 'Michael Altfield'
+project = 'COACCH Data Index'
+copyright = '2021, Esther Boere'
+author = 'Esther Boere'
 
 # The short X.Y version
 version = ''
