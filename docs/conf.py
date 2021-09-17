@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'COACCH Data Index'
+project = 'COACCH Data Repository'
 copyright = '2021, Esther Boere'
 author = 'Esther Boere'
 
