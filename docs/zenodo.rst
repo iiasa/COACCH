@@ -1,3 +1,6 @@
+Zenodo
+======
+
 To upload a COACCH dataset to `Zenodo <https://zenodo.org/>`_, first `log in <https://zenodo.org/login>`_.
 You can use a GitHub account, ORCID account, or a custom Zenodo account (sign up first) to log in to Zenodo.
 Once logged in, you can `start an upload <https://zenodo.org/deposit>`_.

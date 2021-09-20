@@ -6,6 +6,9 @@
 COACCH Data Repository
 ======================
 
+.. image:: _static/under_construction.jpg
+   :width: 306
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
