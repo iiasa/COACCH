@@ -10,7 +10,7 @@ COACCH Data Repository
    :maxdepth: 2
    :caption: Contents:
 
-   autodoc
+   zenodo
 
 
 Indices and tables
