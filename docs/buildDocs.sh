@@ -9,7 +9,8 @@ set -x
 # Authors: Michael Altfield <michael@michaelaltfield.net>
 # Created: 2020-07-17
 # Updated: 2020-07-20
-# Version: 0.2
+# Updated: 2021-09-20
+# Version: 0.3
 ################################################################################
  
 ###################
@@ -114,7 +115,7 @@ cat > index.html <<EOF
 <!DOCTYPE html>
 <html>
    <head>
-      <title>helloWorld Docs</title>
+      <title>COACCH Data Repository</title>
       <meta http-equiv = "refresh" content="0; url='/${REPO_NAME}/en/master/'" />
    </head>
    <body>
