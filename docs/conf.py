@@ -178,10 +178,6 @@ epub_exclude_files = ['search.html']
 
 # -- Extension configuration -------------------------------------------------
 
-# add sourcecode to path
-import sys, os
-sys.path.insert(0, os.path.abspath('../src'))
- 
 ############################
 # SETUP THE RTD LOWER-LEFT #
 ############################
@@ -191,6 +187,7 @@ except NameError:
    html_context = dict()
 html_context['display_lower_left'] = True
 
+import os
 if 'REPO_NAME' in os.environ:
 	REPO_NAME = os.environ['REPO_NAME']
 else:
