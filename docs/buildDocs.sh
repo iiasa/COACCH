@@ -1,5 +1,4 @@
 #!/bin/bash
-set -x
 ################################################################################
 # File:    buildDocs.sh
 # Purpose: Script that builds our documentation using sphinx and updates GitHub
@@ -10,15 +9,17 @@ set -x
 ###############
 # TRAP ERRORS #
 ###############
-
-trap 'catch $LINENO $?' ERR
+set -e
+trap 'catch $LINENO $?' EXIT
 
 catch() {
-  echo "Command on line $1 failed with return code $2"
-  echo "Dump of any Sphinx error logs:"
-  cat /tmp/sphinx-err-*.log
-  exit $2
+  if [ "$2" != "0" ]; then
+    echo "ERROR: command on line $1 failed with return code $2,"
+    echo "       dump of any Sphinx error logs:"
+    cat /tmp/sphinx-err-*.log
+  fi
 }
+set -x
 
 ###################
 # INSTALL DEPENDS #
