@@ -5,14 +5,21 @@ set -x
 # Purpose: Script that builds our documentation using sphinx and updates GitHub
 #          Pages. This script is executed by:
 #            .github/workflows/docs_pages_workflow.yml
-#
-# Authors: Michael Altfield <michael@michaelaltfield.net>
-# Created: 2020-07-17
-# Updated: 2020-07-20
-# Updated: 2021-09-20
-# Version: 0.3
 ################################################################################
- 
+
+###############
+# TRAP ERRORS #
+###############
+
+trap 'catch $LINENO $?' ERR
+
+catch() {
+  echo "Command on line $1 failed with return code $2"
+  echo "Dump of any Sphinx error logs:"
+  cat /tmp/sphinx-err-*.log
+  exit $2
+}
+
 ###################
 # INSTALL DEPENDS #
 ###################
