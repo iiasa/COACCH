@@ -1,5 +1,5 @@
 
-`Costs or benefits? Assessing the economy-wide effects of the electricity sector's low carbon transition – The role of capital costs, divergent risk perceptions and premiums <https://zenodo.org/record/3630513>`_
+`Costs or benefits? Assessing the economy-wide effects of the electricity sector's low carbon transition â€“ The role of capital costs, divergent risk perceptions and premiums <https://zenodo.org/record/3630513>`_
 ===================================================================================================================================================================================================================
 
 .. image:: https://zenodo.org/badge/doi/10.1016/j.esr.2019.100373.svg

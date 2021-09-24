@@ -5,7 +5,16 @@
 .. image:: https://zenodo.org/badge/doi/10.5194/gmd-12-1299-2019.svg
    :target: https://doi.org/10.5194/gmd-12-1299-2019
 
-Description: Socio-economic and environmental impacts of gradual climate change on agriculture, forestry and fisheries calculated using the GLOBIOM model
+Description:
+------------
+
+.. raw:: html
+
+    <embed>
+        <p>The open-source modeling framework MAgPIE (Model of Agricultural Production and its Impact on the Environment) combines economic and biophysical approaches to simulate spatially explicit global scenarios of land use within the 21st century and the respective interactions with the environment. Besides various other projects, it was used to simulate marker scenarios of the Shared Socioeconomic Pathways (SSPs) and contributed substantially to multiple IPCC assessments. However, with growing scope and detail, the non-linear model has become increasingly complex, computationally intensive and non-transparent, requiring structured approaches to improve the development and evaluation of the model.&lt;/p&gt;&lt;p&gt;Here, we provide an overview on version 4 of MAgPIE and how it addresses these issues of increasing complexity using new technical features: modular structure with exchangeable module implementations, flexible spatial resolution, in-code documentation, automatized code checking, model/output evaluation and open accessibility. Application examples provide insights into model evaluation, modular flexibility and region-specific analysis approaches. While this paper is focused on the general framework as such, the publication is accompanied by a detailed model documentation describing contents and equations, and by model evaluation documents giving insights into model performance for a broad range of variables.&lt;/p&gt;&lt;p&gt;With the open-source release of the MAgPIE 4 framework, we hope to contribute to more transparent, reproducible and collaborative research in the field. Due to its modularity and spatial flexibility, it should provide a basis for a broad range of land-related research with economic or biophysical, global or regional focus.</p>
+    </embed>
+    
+Socio-economic and environmental impacts of gradual climate change on agriculture, forestry and fisheries calculated using the GLOBIOM model
 
 Authors: Boere, Esther
 

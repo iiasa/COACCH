@@ -5,7 +5,16 @@
 .. image:: https://zenodo.org/badge/doi/10.1080/17477891.2019.1608148.svg
    :target: https://doi.org/10.1080/17477891.2019.1608148
 
-Description: Socio-economic and environmental impacts of gradual climate change on agriculture, forestry and fisheries calculated using the GLOBIOM model
+Description:
+------------
+
+.. raw:: html
+
+    <embed>
+        <p>Extreme weather resilience has been defined as being based on three pillars: resistance (the ability to lower impacts), recovery (the ability to bounce back), and adaptive capacity (the ability to learn and improve). These resilience pillars are important both before and after the occurrence of extreme weather events. Extreme weather insurance can influence these pillars of resilience depending on how particular insurance mechanisms are structured. We explore how the lessons learnt from the current best insurance practices can improve resilience to extreme weather events. We employ an extensive inventory of private property and agricultural crop insurance mechanisms to conduct a multi-criteria analysis of insurance market outcomes. We draw conclusions regarding the patterns in the best practice from six European countries to increase resilience. We suggest that requirements to buy a bundle extreme weather event insurance with general insurance packages are strengthened and supported with structures to financing losses through public-private partnerships. Moreover, support for low income households through income vouchers could be provided. Similarly, for the agricultural sector we propose moving towards comprehensive crop yield insurance linked to general agricultural subsidies. In both cases a nationally representative body can coordinate the various stakeholders into acting in concert.</p>
+    </embed>
+    
+Socio-economic and environmental impacts of gradual climate change on agriculture, forestry and fisheries calculated using the GLOBIOM model
 
 Authors: Boere, Esther
 

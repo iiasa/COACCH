@@ -1,0 +1,23 @@
+
+`Meeting User Needs for Sea Level Rise Information: A Decision Analysis Perspective <https://zenodo.org/record/3551387>`_
+=========================================================================================================================
+
+.. image:: https://zenodo.org/badge/doi/10.1029/2018EF001071.svg
+   :target: https://doi.org/10.1029/2018EF001071
+
+Description:
+------------
+
+.. raw:: html
+
+    <embed>
+        <p>Despite widespread efforts to implement climate services, there is almost no literature that systematically analyzes users&#39; needs. This paper addresses this gap by applying a decision analysis perspective to identify what kind of mean sea level rise (SLR) information is needed for local coastal adaptation decisions. We first characterize these decisions, then identify suitable decision analysis approaches and the sea level information required, and finally discuss if and how these information needs can be met given the state of the art of sea level science. We find that four types of information are needed: (i) probabilistic predictions for short‐term decisions when users are uncertainty tolerant; (ii) high‐end and low‐end SLR scenarios chosen for different levels of uncertainty tolerance; (iii) upper bounds of SLR for users with a low uncertainty tolerance; and (iv) learning scenarios derived from estimating what knowledge will plausibly emerge about SLR over time. Probabilistic predictions can only be attained for the near term (i.e., 2030&ndash;2050) before SLR significantly diverges between low and high emission scenarios, for locations for which modes of climate variability are well understood and the vertical land movement contribution to local sea levels is small. Meaningful SLR upper bounds cannot be defined unambiguously from a physical perspective. Low‐ to high‐end scenarios for different levels of uncertainty tolerance and learning scenarios can be produced, but this involves both expert and user judgments. The decision analysis procedure elaborated here can be applied to other types of climate information that are required for mitigation and adaptation purposes.</p>
+    </embed>
+    
+Socio-economic and environmental impacts of gradual climate change on agriculture, forestry and fisheries calculated using the GLOBIOM model
+
+Authors: Boere, Esther
+
+.. meta::
+   :keywords: gradual climate change, agriculture, forestry, partial-equilibrium, socio-economic, COACCH
+    
