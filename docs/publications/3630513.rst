@@ -28,8 +28,10 @@ climate targets, which indicates the relevance of green macroprudential regulati
     
 Socio-economic and environmental impacts of gradual climate change on agriculture, forestry and fisheries calculated using the GLOBIOM model
 
-Authors: Boere, Esther
+Authors:
+--------
+Bachner, Gabriel; Mayer, Jakob; Steininger, Karl
 
 .. meta::
-   :keywords: gradual climate change, agriculture, forestry, partial-equilibrium, socio-economic, COACCH
+   :keywords: Climate change mitigation; Electricity; Europe; Risk; Capital costs
     

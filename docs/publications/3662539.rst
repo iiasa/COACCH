@@ -16,8 +16,10 @@ Description:
     
 Socio-economic and environmental impacts of gradual climate change on agriculture, forestry and fisheries calculated using the GLOBIOM model
 
-Authors: Boere, Esther
+Authors:
+--------
+Thomas Schinko , Laurent Drouet , Zoi Vrontisi, Andries Hof, Jochen Hinkel, Junko Mochizuki , Valentina Bosetti, Kostas Fragkiadakis, Detlef van Vuuren and Daniel Lincke
 
 .. meta::
-   :keywords: gradual climate change, agriculture, forestry, partial-equilibrium, socio-economic, COACCH
+   :keywords: macroeconomic assessment, economy-wide effects, coastal flooding due to sea level rise, multi-model assessment, mitigation- adaptation interaction, well below 2 °C
     

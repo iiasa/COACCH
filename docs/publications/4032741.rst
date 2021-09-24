@@ -31,8 +31,10 @@ medicanes, accounting for 2&ndash;5% of all the extreme precipitation events.</p
     
 Socio-economic and environmental impacts of gradual climate change on agriculture, forestry and fisheries calculated using the GLOBIOM model
 
-Authors: Boere, Esther
+Authors:
+--------
+Zhang, Wei; Villarini, Gabriele; Scoccimarro, Enrico; Napolitano, Francesco
 
 .. meta::
-   :keywords: gradual climate change, agriculture, forestry, partial-equilibrium, socio-economic, COACCH
+   :keywords: medicanes, precipitation, ERA-5
     
