@@ -1,0 +1,14 @@
+
+`MAgPIE 4 - a modular open-source framework for modeling global land systems <https://zenodo.org/record/3449071>`_
+==================================================================================================================
+
+.. image:: https://zenodo.org/badge/doi/10.5194/gmd-12-1299-2019.svg
+   :target: https://doi.org/10.5194/gmd-12-1299-2019
+
+Description: Socio-economic and environmental impacts of gradual climate change on agriculture, forestry and fisheries calculated using the GLOBIOM model
+
+Authors: Boere, Esther
+
+.. meta::
+   :keywords: gradual climate change, agriculture, forestry, partial-equilibrium, socio-economic, COACCH
+    

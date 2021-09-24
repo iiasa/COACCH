@@ -1,0 +1,23 @@
+
+`Comparing urban coastal flood risk in 136 cities under two alternative sea-level projections: RCP 8.5 and an expert opinion-based high-end scenario <https://zenodo.org/record/3946681>`_
+==========================================================================================================================================================================================
+
+.. image:: https://zenodo.org/badge/doi/10.1016/j.ocecoaman.2020.105249.svg
+   :target: https://doi.org/10.1016/j.ocecoaman.2020.105249
+
+Description:
+------------
+
+.. raw:: html
+
+    <embed>
+        <p>The high degree of uncertainty associated with the extent of future sea-level rise stems primarily from the potential mass loss of the Greenland and Antarctica ice-sheets. We explore the impact of this uncertainty on economic damage due to sea-level rise for 136 major coastal cities. We compare the probability distribution for damage under the assumption of no adaptation for two relative sea-level projections: the RCP 8.5 scenario from the IPCC Fifth Assessment Report and a High-end scenario that incorporates expert opinion on additional ice-sheet melting. We use the 50th and 95th percentiles to estimate expected damage and one risk measure, the Expected Shortfall ES (95%), which represents the impact of low-probability, high-damage coastal flood risk (above the 95th percentile). Aggregate expected damage by 2050 under RCP 8.5 is US$1,600 billion, while the aggregate risk measure ES(95%) is almost twice as much as the average damage at US$3,082 billion. Under the High-end scenario, ES(95%) figures in Guangzhou and New Orleans by 2050 are twice as high as the expected damage. The city of Guangzhou leads the ranking under both scenarios, followed by Mumbai and New Orleans. Our results suggest that it is critical to incorporate the possibility of High-end scenarios into coastal adaptation planning for future sea-level rise, especially for risk-averse decision-making.</p>
+    </embed>
+    
+Socio-economic and environmental impacts of gradual climate change on agriculture, forestry and fisheries calculated using the GLOBIOM model
+
+Authors: Boere, Esther
+
+.. meta::
+   :keywords: gradual climate change, agriculture, forestry, partial-equilibrium, socio-economic, COACCH
+    

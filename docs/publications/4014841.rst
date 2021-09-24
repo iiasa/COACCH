@@ -1,0 +1,42 @@
+
+`Economic valuation of climate change induced mortality: Age dependent cold and heat mortality in the Netherlands. <https://zenodo.org/record/4014841>`_
+========================================================================================================================================================
+
+.. image:: https://zenodo.org/badge/doi/10.1007/s10584-020-02797-0.svg
+   :target: https://doi.org/10.1007/s10584-020-02797-0
+
+Description:
+------------
+
+.. raw:: html
+
+    <embed>
+        <p>This study examines the impacts of climate change on future mortality in the<br>
+Netherlands and the related economic costs. Our methods account for changes in<br>
+both cold- and heat-related mortality for different age classes, the time dynamics<br>
+associated with temperature-related mortality, demographic change and the urban<br>
+heat island effect. Results show that heat and cold impacts on mortality vary<br>
+considerably between age classes, with older people being more vulnerable to<br>
+temperature extremes. The sensitivity of mortality to temperature is higher on hot<br>
+(4.6%/&deg;C) than cold (2.1%/&deg;C) days for the most vulnerable group (&ge; 80 years),<br>
+and extreme temperatures have long time lags on mortality, especially in the cold.<br>
+A main finding is that climate change is expected to first decrease total net<br>
+mortality in the Netherlands due to a dominant effect of less cold-related mortality,<br>
+but this reverses over time under high warming scenarios, unless additional adaptation<br>
+measures are taken. The economic valuation of these total net mortality<br>
+changes indicates that climate change will result in net benefits of up to &euro;2.3<br>
+billion using the Value of a Statistical Life Year and &euro;14.5 billion using the Value<br>
+of a Statistical Life approaches in 2050, while this changes over time in net<br>
+economic costs under high warming scenarios that can reach up to &euro;17.6 billion<br>
+in 2085. Implementing adaptation policies that reduce the negative impacts of<br>
+warming on mortality in the heat can turn these net costs into net benefits by<br>
+achieving a continued dominating effect of reduced mortality in the cold.</p>
+    </embed>
+    
+Socio-economic and environmental impacts of gradual climate change on agriculture, forestry and fisheries calculated using the GLOBIOM model
+
+Authors: Boere, Esther
+
+.. meta::
+   :keywords: gradual climate change, agriculture, forestry, partial-equilibrium, socio-economic, COACCH
+    

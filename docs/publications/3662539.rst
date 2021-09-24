@@ -1,0 +1,23 @@
+
+`Economy-wide effects of coastal flooding due to sea level rise: a multi-model simultaneous treatment of mitigation, adaptation, and residual impacts <https://zenodo.org/record/3662539>`_
+===========================================================================================================================================================================================
+
+.. image:: https://zenodo.org/badge/doi/10.1088/2515-7620/ab6368.svg
+   :target: https://doi.org/10.1088/2515-7620/ab6368
+
+Description:
+------------
+
+.. raw:: html
+
+    <embed>
+        <p>This article presents a multi-model assessment of the macroeconomic impacts of coastal&nbsp;flooding due to sea level rise and the respective economy-wide implications of adaptation measures for two greenhouse gas&nbsp;(GHG)&nbsp;concentration targets, namely the Representative Concentration Pathways(RCP)2.6 and RCP4.5, and subsequent temperature increases. We combine our analysis, focusing on the global level, as well as on individual G20 countries, with the corresponding stylized RCP mitigation efforts in order to understand the implications of interactions across mitigation, adaptation and sea level rise on a macroeconomic level. Our global results indicate that until the middle of this century, differences in macroeconomic impacts between the two climatic scenarios are small, but increase substantially towards the end of the century. Moreover, direct economic impacts can be partially absorbed by substitution effects in production processes and via international trade effects until 2050. By 2100 however, we&nbsp;find that this dynamic no longer holds and economy-wide effects become even larger than direct impacts. The disturbances of mitigation efforts to the overall economy may in some regions and for some scenarios lead to a counterintuitive result, namely to GDP losses that are higher in RCP26 than in RCP45, despite higher direct coastal damages in the latter scenario. Within the G20, our results indicate that China, India and Canada will experience the highest macroeconomic impacts, in line with the respective direct climatic impacts, with the two&nbsp;first large economies undertaking the highest mitigation efforts in a cost-efficient global climate action. A sensitivity analysis of varying socioeconomic assumptions highlights the role of climate-resilient development as a crucial complement to mitigation and adaptation efforts.</p>
+    </embed>
+    
+Socio-economic and environmental impacts of gradual climate change on agriculture, forestry and fisheries calculated using the GLOBIOM model
+
+Authors: Boere, Esther
+
+.. meta::
+   :keywords: gradual climate change, agriculture, forestry, partial-equilibrium, socio-economic, COACCH
+    

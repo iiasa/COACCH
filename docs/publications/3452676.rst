@@ -1,0 +1,14 @@
+
+`Risk measures and the distribution of damage curves for 600 European coastal cities <https://zenodo.org/record/3452676>`_
+==========================================================================================================================
+
+.. image:: https://zenodo.org/badge/doi/10.1088/1748-9326/ab185c.svg
+   :target: https://doi.org/10.1088/1748-9326/ab185c
+
+Description: Socio-economic and environmental impacts of gradual climate change on agriculture, forestry and fisheries calculated using the GLOBIOM model
+
+Authors: Boere, Esther
+
+.. meta::
+   :keywords: gradual climate change, agriculture, forestry, partial-equilibrium, socio-economic, COACCH
+    

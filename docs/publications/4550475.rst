@@ -1,0 +1,23 @@
+
+`Regional Inequalities in Flood Insurance Affordability and Uptake under Climate Change <https://zenodo.org/record/4550475>`_
+=============================================================================================================================
+
+.. image:: https://zenodo.org/badge/doi/10.3390/su12208734.svg
+   :target: https://doi.org/10.3390/su12208734
+
+Description:
+------------
+
+.. raw:: html
+
+    <embed>
+        <p>This study addresses the threat of climate- and socio-economic change on the ability for private flood insurance to provide coverage for households in European high-risk flood zones in the future. Using a modeling approach we project a large increase in future flood insurance premiums, which leads to unaffordability and a reduction of uptake for insurance coverage. Under high flood risk scenarios, we forecast a future situation where flood insurance markets in several European regions are hampered due to large declines in insurance uptake, leaving households in high-risk areas financially vulnerable to flood impacts. This obstruction to a private flood insurance market&rsquo;s functioning is defined here as a socio-economic tipping-point, as it constitutes a fundamental change from formal to less formal means of insuring flood risk. Specific areas where we observe this development are currently underdeveloped regions in Europe, mostly encompassing Eastern European regions. These are regions where governments may also lack resources to provide adequate compensation for damage in the case of large floods. Therefore, we can detect increasing inequality in the use of insurance to adapt to climate change between European regions as a result of climate- and socio-economic change.</p>
+    </embed>
+    
+Socio-economic and environmental impacts of gradual climate change on agriculture, forestry and fisheries calculated using the GLOBIOM model
+
+Authors: Boere, Esther
+
+.. meta::
+   :keywords: gradual climate change, agriculture, forestry, partial-equilibrium, socio-economic, COACCH
+    

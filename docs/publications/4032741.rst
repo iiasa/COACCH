@@ -1,0 +1,38 @@
+
+`Examining the precipitation associated with medicanes in the high-resolution ERA-5 reanalysis data <https://zenodo.org/record/4032741>`_
+=========================================================================================================================================
+
+.. image:: https://zenodo.org/badge/doi/10.1002/joc.6669.svg
+   :target: https://doi.org/10.1002/joc.6669
+
+Description:
+------------
+
+.. raw:: html
+
+    <embed>
+        <p>Medicanes, hurricane-like cyclonic systems in the Mediterranean Sea, are<br>
+becoming an increasingly severe problem for many Mediterranean countries<br>
+because climate projections suggest a higher risk under anthropogenic forcing<br>
+even under an intermediate scenario. Due to the small size of these weather<br>
+systems, high-resolution data are required to better resolve their structure and<br>
+evolution. Here we investigate medicanes from the perspective of precipitation<br>
+using the high-resolution (0.25) ERA-5 reanalysis data released by European<br>
+Centre for Medium-Range Weather Forecasts. Overall, we identify a total of<br>
+59 medicanes from ERA-5 data during 1979&ndash;2017, with marked year-to-year<br>
+variability. These storms tend to occur mostly between September and March.<br>
+Overall, the intensity of medicanes (i.e., maximum wind) is lower than that of<br>
+tropical cyclones, and this is also true for precipitation. The composite precipitation<br>
+of medicanes increases from the centre to 0.8 and then decreases.<br>
+During 1979&ndash;2017, many regions along the Mediterranean Sea experienced<br>
+over 20 extreme precipitation events (i.e., days) which were caused by<br>
+medicanes, accounting for 2&ndash;5% of all the extreme precipitation events.</p>
+    </embed>
+    
+Socio-economic and environmental impacts of gradual climate change on agriculture, forestry and fisheries calculated using the GLOBIOM model
+
+Authors: Boere, Esther
+
+.. meta::
+   :keywords: gradual climate change, agriculture, forestry, partial-equilibrium, socio-economic, COACCH
+    

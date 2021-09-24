@@ -1,0 +1,14 @@
+
+`An assessment of best practices of extreme weather insurance and directions for a more resilient society <https://zenodo.org/record/3384754>`_
+===============================================================================================================================================
+
+.. image:: https://zenodo.org/badge/doi/10.1080/17477891.2019.1608148.svg
+   :target: https://doi.org/10.1080/17477891.2019.1608148
+
+Description: Socio-economic and environmental impacts of gradual climate change on agriculture, forestry and fisheries calculated using the GLOBIOM model
+
+Authors: Boere, Esther
+
+.. meta::
+   :keywords: gradual climate change, agriculture, forestry, partial-equilibrium, socio-economic, COACCH
+    

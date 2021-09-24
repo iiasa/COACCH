@@ -1,0 +1,14 @@
+
+`The Economic Impacts of Natural Disasters: A Review of Models and Empirical Studies <https://zenodo.org/record/3384774>`_
+==========================================================================================================================
+
+.. image:: https://zenodo.org/badge/doi/10.1093/reep/rez004.svg
+   :target: https://doi.org/10.1093/reep/rez004
+
+Description: Socio-economic and environmental impacts of gradual climate change on agriculture, forestry and fisheries calculated using the GLOBIOM model
+
+Authors: Boere, Esther
+
+.. meta::
+   :keywords: gradual climate change, agriculture, forestry, partial-equilibrium, socio-economic, COACCH
+    

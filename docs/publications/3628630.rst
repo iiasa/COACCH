@@ -1,0 +1,23 @@
+
+`Climate change induced socio-economic tipping points: review and stakeholder consultation for policy relevant research <https://zenodo.org/record/3628630>`_
+=============================================================================================================================================================
+
+.. image:: https://zenodo.org/badge/doi/10.1088/1748-9326/ab6395.svg
+   :target: https://doi.org/10.1088/1748-9326/ab6395
+
+Description:
+------------
+
+.. raw:: html
+
+    <embed>
+        <p>Tipping points have become a key concept in research on climate change, indicating points of abrupt transition in biophysical systems as well as transformative changes in adaptation and mitigation strategies. However, the potential existence of tipping points in socio-economic systems has remained underexplored, whereas they might be highly policy relevant. This paper describes characteristics of climate change induced socio-economic tipping points (SETPs) to guide future research on SETPS to inform climate policy. We review existing literature to create a tipping point typology and to derive the following SETP definition: a climate change induced, abrupt change of a socio-economic system, into a new, fundamentally different state. Through stakeholder consultation, we identify 22 candidate SETP examples with policy relevance for Europe. Three of these are described in higher detail to identify their tipping point characteristics (stable states, mechanisms and abrupt change): the collapse of winter sports tourism, farmland abandonment and sea-level rise-induced migration. We find that stakeholder perceptions play an important role in describing SETPs. The role of climate drivers is difficult to isolate from other drivers because of complex interplays with socio-economic factors. In some cases, the rate of change rather than the magnitude of change causes a tipping point. The clearest SETPs are found on small system scales. On a national to continental scale, SETPs are less obvious because they are difficult to separate from their associated economic substitution effects and policy response. Some proposed adaptation measures are so transformative that their implementations can be considered an SETP in terms of &lsquo;response to climate change&rsquo;. Future research can focus on identification and impact analysis of tipping points using stylized models, on the exceedance of stakeholder-defined critical thresholds in the RCP/SSP space and on the macro-economic impacts of new system states.</p>
+    </embed>
+    
+Socio-economic and environmental impacts of gradual climate change on agriculture, forestry and fisheries calculated using the GLOBIOM model
+
+Authors: Boere, Esther
+
+.. meta::
+   :keywords: gradual climate change, agriculture, forestry, partial-equilibrium, socio-economic, COACCH
+    
