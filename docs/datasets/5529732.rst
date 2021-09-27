@@ -1,0 +1,25 @@
+
+`SETP Food <https://zenodo.org/record/5529732>`_
+================================================
+
+.. image:: https://zenodo.org/badge/doi/10.5281/zenodo.5529732.svg
+   :target: https://doi.org/10.5281/zenodo.5529732
+
+Description:
+------------
+
+.. raw:: html
+
+    <embed>
+        <p>Climate-induced shock on crop productivity in the short (around 2030) and medium (around 2050) term. Productivity changes are selected as the overall largest annual drop in yields at a European level in the 30-year moving window around 2030 and 2050.</p>
+    </embed>
+    
+Socio-economic and environmental impacts of gradual climate change on agriculture, forestry and fisheries calculated using the GLOBIOM model
+
+Authors:
+--------
+Boere
+
+.. meta::
+   :keywords: agriculture, crop modelling, extreme events, COACCH
+    

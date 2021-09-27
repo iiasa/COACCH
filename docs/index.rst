@@ -14,7 +14,12 @@ COACCH Data Repository
    :caption: Contents:
 
    zenodo
+   datasets/4733499
    datasets/5513871
+   datasets/5529732
+   datasets/5529888
+   datasets/5530146
+   datasets/5530237
    publications/3384754
    publications/3384774
    publications/3402843

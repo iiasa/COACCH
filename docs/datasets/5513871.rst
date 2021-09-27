@@ -1,12 +1,25 @@
+
 `ImpactChains_GLOBIOM <https://zenodo.org/record/5513871>`_
 ===========================================================
 
-.. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.5513871.svg
+.. image:: https://zenodo.org/badge/doi/10.5281/zenodo.5513871.svg
    :target: https://doi.org/10.5281/zenodo.5513871
 
-Description: Socio-economic and environmental impacts of gradual climate change on agriculture, forestry and fisheries calculated using the GLOBIOM model
+Description:
+------------
 
-Authors: Boere, Esther
+.. raw:: html
+
+    <embed>
+        <p>Socio-economic and environmental impacts&nbsp;of gradual climate change on agriculture, forestry and fisheries calculated using the GLOBIOM model</p>
+    </embed>
+    
+Socio-economic and environmental impacts of gradual climate change on agriculture, forestry and fisheries calculated using the GLOBIOM model
+
+Authors:
+--------
+Boere, Esther
 
 .. meta::
    :keywords: gradual climate change, agriculture, forestry, partial-equilibrium, socio-economic, COACCH
+    
