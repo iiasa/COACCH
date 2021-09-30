@@ -16,11 +16,6 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
-# -- Setup for custom CSS-----------------------------------------------------
-
-def setup(app):
-    app.add_css_file('custom.css')
- 
 # -- Project information -----------------------------------------------------
 
 project = 'COACCH Data Repository'
@@ -82,6 +77,9 @@ pygments_style = None
 #
 #html_theme = 'alabaster'
 html_theme = 'sphinx_rtd_theme'
+
+# custom.css is inside one of the html_static_path folders (e.g. _static)
+html_css_files = ["custom.css"]
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
