@@ -6,7 +6,7 @@
 COACCH Data Repository
 ======================
 
-.. image:: _static/Flag_of_Europe.png
+.. image:: _static/Flag_of_Europe.svg
    :align: left
    :width: 100
 
