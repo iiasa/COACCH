@@ -98,7 +98,7 @@ for current_version in ${versions}; do
 done
 
 # patch up the HTML
-find docs/_build/html -type f -iname '*.html' | xargs -L1 -I {} sed -i 's/placeholder="Search docs"/placeholder="Search data sets"/' "{}"
+find "${docroot}/" -type f -iname '*.html' | xargs -L1 -I {} sed -i 's/placeholder="Search docs"/placeholder="Search data sets"/' "{}"
 
 # return to master branch
 git checkout master
