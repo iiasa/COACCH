@@ -1,0 +1,19 @@
+
+`Riverine Flood Insurance assessment indicators under climate and socio-economic change <https://zenodo.org/record/5534190>`_
+=============================================================================================================================
+
+.. image:: https://zenodo.org/badge/doi/10.5281/zenodo.5534190.svg
+   :target: https://doi.org/10.5281/zenodo.5534190
+
+Description:
+------------
+
+<p>Expected annual river flood damages, flood insurance premiums, and insurance penetration rates, for EU-regions (NUTS2) and under future climatic and socio-economic conditions (RCP-SSP combinations).</p>
+
+Authors:
+--------
+Tesselaar, Max
+
+.. meta::
+   :keywords: River flood damage, Flood insurance, Insurance penetration, Climate change, COACCH
+    

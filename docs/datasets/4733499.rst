@@ -8,17 +8,11 @@
 Description:
 ------------
 
-.. raw:: html
-
-    <embed>
-        <p>This dataset provides additional information to that included in:</p>
+<p>This dataset provides additional information to that included in:</p>
 
 <p>Abadie, L.M., Jackson, L.P., Sainz de Murieta, E., Jevrejeva, S., Galarraga, I., 2020. Comparing urban coastal flood risk in 136 cities under two alternative sea-level projections: RCP 8.5 and an expert opinion-based high-end scenario. Ocean &amp; Coastal Management 193, 105249. https://doi.org/10.1016/j.ocecoaman.2020.105249</p>
 
 <p>The file contains sea-level rise projections, expected damages and risk data for RCP4.5 and RCP2.6 additionally to the RCP8.5 and the High-end scenario provided in the aforementioned article. Also, we present the data for every decade from 2020 to 2100.</p>
-    </embed>
-    
-Socio-economic and environmental impacts of gradual climate change on agriculture, forestry and fisheries calculated using the GLOBIOM model
 
 Authors:
 --------

@@ -1,0 +1,19 @@
+
+`Supply Chain Shocks due to extreme weather events <https://zenodo.org/record/5541327>`_
+========================================================================================
+
+.. image:: https://zenodo.org/badge/doi/10.5281/zenodo.5541327.svg
+   :target: https://doi.org/10.5281/zenodo.5541327
+
+Description:
+------------
+
+<p>Projected supply chain shocks due to extreme weather events measured in annual percentage change in a country-sector&#39;s export activity compared to the baseline period</p>
+
+Authors:
+--------
+Borsky, Stefan
+
+.. meta::
+   :keywords: COACCH, supply chains, extreme weather
+    

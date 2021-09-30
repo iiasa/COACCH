@@ -8,19 +8,13 @@
 Description:
 ------------
 
-.. raw:: html
-
-    <embed>
-        <p>Direct impacts of river flooding using the CLIMRISK-RIVER model. This includes&nbsp;direct impacts to built environment and infrastructure.</p>
+<p>Direct impacts of river flooding using the CLIMRISK-RIVER model. This includes&nbsp;direct impacts to built environment and infrastructure.</p>
 
 <p>The damage is expressed as a change in expected annual damage (EAD) w.r.t. 2010.&nbsp;</p>
 
 <p>Files include two adaptation assumptions: no additional adaptation and optimal adaptation (using CBA estimates).</p>
 
 <p>Units: millions EUR (2015) PPP.</p>
-    </embed>
-    
-Socio-economic and environmental impacts of gradual climate change on agriculture, forestry and fisheries calculated using the GLOBIOM model
 
 Authors:
 --------
