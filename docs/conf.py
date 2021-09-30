@@ -79,7 +79,7 @@ pygments_style = None
 html_theme = 'sphinx_rtd_theme'
 
 # custom.css is inside one of the html_static_path folders (e.g. _static)
-html_css_files = ["custom.css"]
+#html_css_files = ["custom.css"]
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -88,6 +88,7 @@ html_css_files = ["custom.css"]
 html_theme_options = {
     'logo_only': False,
     'display_version': False,
+    'style_nav_header_background': '#A0A0B0',
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
