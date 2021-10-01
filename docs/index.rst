@@ -10,9 +10,8 @@ COACCH Data Repository
    :align: left
    :width: 100
 
-This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 776479. 
-
-Disclaimer: The content of the COACH Data Repository does not reflect the official opinion of the European Union. Responsibility for the information and views expressed herein lies entirely with the author(s). The EU is not responsible for any use that may be made of the information it contains.
+This webpage reports the data generated throughout the [COACCH (CO-designing the Assessment of Climate CHange costs)](https://www.coacch.eu/) project. COACCH is an innovative research project that gathers leading experts on climate change sciences from 13 European research institutions. COACCH aims to advance knowledge regarding climate change impacts and policy that can be used directly by stakeholder communities. Throughout the COACCH project, an ensemble of models produced results for an improved downscaled assessment of the risks and costs of climate change in Europe. 
+Next to this data repository, there is an open access, interactive, multi-level climate change impacts scenario explorer developed in the project (LINK TO SCENARIO EXPLORER). The scenario explorer enables users to visualize results generated in the project at the NUTS2 level for different socio-economic and climate scenarios. This is the main source for policy makers and the general audience to obtain an overview and understanding of the most important COACCH results. Users interested in the data behind the scenario explorer can further explore the results generated in the COACCH project through this repository.
 
 .. image:: _static/under_construction.jpg
    :width: 306
@@ -21,7 +20,7 @@ Disclaimer: The content of the COACH Data Repository does not reflect the offici
    :maxdepth: 2
    :caption: Contents:
 
-   acknoledgement
+   acknowledgement
    disclaimer
    datasets/5541327
    datasets/5534190
