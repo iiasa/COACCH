@@ -1,4 +1,6 @@
 
+.. This file is automaticaly generted. Do not edit.
+
 `Riverine Flood Insurance assessment indicators under climate and socio-economic change <https://zenodo.org/record/5534190>`_
 =============================================================================================================================
 

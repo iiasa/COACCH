@@ -1,4 +1,6 @@
 
+.. This file is automaticaly generted. Do not edit.
+
 `SETP Food <https://zenodo.org/record/5529732>`_
 ================================================
 

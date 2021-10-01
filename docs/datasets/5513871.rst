@@ -1,4 +1,6 @@
 
+.. This file is automaticaly generted. Do not edit.
+
 `ImpactChains_GLOBIOM <https://zenodo.org/record/5513871>`_
 ===========================================================
 

@@ -1,4 +1,6 @@
 
+.. This file is automaticaly generted. Do not edit.
+
 `Climate induced economic shocks using CLIMRISK <https://zenodo.org/record/5530146>`_
 =====================================================================================
 

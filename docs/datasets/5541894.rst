@@ -1,4 +1,6 @@
 
+.. This file is automaticaly generted. Do not edit.
+
 `Climate change impacts on energy demand <https://zenodo.org/record/5541894>`_
 ==============================================================================
 

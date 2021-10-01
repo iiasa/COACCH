@@ -1,4 +1,6 @@
 
+.. This file is automaticaly generted. Do not edit.
+
 `River flooding impacts using CLIMRISK-RIVER <https://zenodo.org/record/5529888>`_
 ==================================================================================
 

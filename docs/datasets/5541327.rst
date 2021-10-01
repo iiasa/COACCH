@@ -1,4 +1,6 @@
 
+.. This file is automaticaly generted. Do not edit.
+
 `Supply Chain Shocks due to extreme weather events <https://zenodo.org/record/5541327>`_
 ========================================================================================
 
