@@ -8,12 +8,12 @@ COACCH Data Repository
    :align: left
    :width: 150
 
-This site reports the results generated in the `COACCH <https://www.coacch.eu/>`_ (CO-designing the Assessment of Climate CHange costs) project. Throughout the COACCH project, an ensemble of models produced results for an improved downscaled assessment of the risks and costs of climate change in Europe.
+This site provides access to the results generated in the `COACCH <https://www.coacch.eu/>`_ project (CO-designing the Assessment of Climate CHange costs), funded by the European Union’s Horizon 2020 research and innovation programme. Throughout this project running from 2017 to 2021, an ensemble of models produced an improved downscaled assessment of the risks and costs of climate change in Europe.
 
-Next to this data repository, a `Climate Change Impact Scenario Explorer <https://www.scenarioxplorer.coacch.eu/>`_ exists which enables users to visualize the most important COACCH results at the NUTS2 level for different socio-economic and climate scenarios. Users interested in the data behind the scenario explorer can further explore the results generated in the COACCH project through this repository.
+Next to this data repository, a `Climate Change Impact Scenario Explorer <https://www.scenarioxplorer.coacch.eu/>`_ allows users to visualize the most important COACCH results at the NUTS2 level for different socio-economic and climate scenarios. Users interested in the data behind the scenario explorer can further explore the results generated in the COACCH project through this repository.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
    classes/climate_impact_assessment
