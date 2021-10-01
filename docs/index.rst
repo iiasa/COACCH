@@ -21,6 +21,8 @@ Disclaimer: The content of the COACH Data Repository does not reflect the offici
    :maxdepth: 2
    :caption: Contents:
 
+   acknoledgement
+   disclaimer
    datasets/5541327
    datasets/5534190
    datasets/5530237
