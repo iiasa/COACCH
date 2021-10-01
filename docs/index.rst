@@ -6,15 +6,13 @@
 COACCH Data Repository
 ======================
 
-.. image:: _static/Flag_of_Europe.svg
-   :align: left
-   :width: 100
-
-This webpage reports the data generated throughout the `COACCH (CO-designing the Assessment of Climate CHange costs) <https://www.coacch.eu/>`_ project. COACCH is an innovative research project that gathers leading experts on climate change sciences from 13 European research institutions. COACCH aims to advance knowledge regarding climate change impacts and policy that can be used directly by stakeholder communities. Throughout the COACCH project, an ensemble of models produced results for an improved downscaled assessment of the risks and costs of climate change in Europe. 
-Next to this data repository, there is an open access, interactive, multi-level climate change impacts scenario explorer developed in the project (LINK TO SCENARIO EXPLORER). The scenario explorer enables users to visualize results generated in the project at the NUTS2 level for different socio-economic and climate scenarios. This is the main source for policy makers and the general audience to obtain an overview and understanding of the most important COACCH results. Users interested in the data behind the scenario explorer can further explore the results generated in the COACCH project through this repository.
-
 .. image:: _static/under_construction.jpg
-   :width: 306
+   :align: left
+   :width: 150
+
+This site reports the data generated throughout the `COACCH <https://www.coacch.eu/>`_ (CO-designing the Assessment of Climate CHange costs) project. COACCH is an innovative research project that gathers leading experts on climate change sciences from 13 European research institutions. COACCH aims to advance knowledge regarding climate change impacts and policy that can be used directly by stakeholder communities. Throughout the COACCH project, an ensemble of models produced results for an improved downscaled assessment of the risks and costs of climate change in Europe. 
+
+In addition to this data repository, there is an online, open access, interactive, multi-level climate change impacts scenario explorer (LINK TO SCENARIO EXPLORER) developed in the project. The scenario explorer enables users to visualize results generated in the project at the NUTS2 level for different socio-economic and climate scenarios. This is the main source for policy makers and the general audience to obtain an overview and understanding of the most important COACCH results. Users interested in the data behind the scenario explorer can further explore the results generated in the COACCH project through this repository.
 
 .. toctree::
    :maxdepth: 2
