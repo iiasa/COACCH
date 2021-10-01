@@ -1,0 +1,19 @@
+
+`Climate change impacts on energy demand <https://zenodo.org/record/5541894>`_
+==============================================================================
+
+.. image:: https://zenodo.org/badge/doi/10.5281/zenodo.5541894.svg
+   :target: https://doi.org/10.5281/zenodo.5541894
+
+Description:
+------------
+
+<p>Climate change impacts on energy demand by energy carrier (electricity, natural gas, and petroleum) and sector (agriculture, industry, residential, and commercial).</p>
+
+Authors:
+--------
+Shouro Dasgupta
+
+.. meta::
+   :keywords: climate change, energy demand, energy carrier, sectoral, socio-economic, econometrics; COACCH
+    
