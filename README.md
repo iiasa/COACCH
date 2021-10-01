@@ -1,8 +1,8 @@
 ![docs_pages_workflow](https://github.com/iiasa/COACCH/workflows/docs_pages_workflow/badge.svg?branch=master)
 
-# Data Index Site for COACCH
+# Data Reposity content for COACCH
 
-Uses Sphinx and GitHub actions. Indexing remains to-do.
+The `master` branch of this repository holds content and content generation scripts for the [COACCH Data Repository website](https://coacch.iiasa.ac.at). The content is defined in [reStructuredText](https://en.wikipedia.org/wiki/ReStructuredText) markup format and converted using [Sphinx](https://www.sphinx-doc.org/) to HTML. The Sphinx conversion is automated using GitHub Actions. The HTML is stored in the `gh-pages` branch and thereafter automatically displayed via GitHub Pages on the website.
 
 For more information, see this article
 
