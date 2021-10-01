@@ -19,6 +19,7 @@ Next to this data repository, a `Climate Change Impact Scenario Explorer <https:
    classes/climate_impact_assessment
    classes/tipping_points
    classes/policy_impact
+   classes/other
    acknowledgement
    disclaimer
 

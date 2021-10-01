@@ -1,5 +1,5 @@
-Tipping Points
-==============
+Other
+=====
 
 .. toctree::
    :maxdepth: 2
