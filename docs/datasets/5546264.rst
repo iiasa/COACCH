@@ -1,0 +1,21 @@
+
+.. This file is automaticaly generted. Do not edit.
+
+`Reduced-form Climate Change Damage Functions <https://zenodo.org/record/5546264>`_
+===================================================================================
+
+.. image:: https://zenodo.org/badge/doi/10.5281/zenodo.5546264.svg
+   :target: https://doi.org/10.5281/zenodo.5546264
+
+Description:
+------------
+
+<p>Reduced-form Climate Change Damage Functions of impacts on: Agriculture, Fishery, Forestry, Sea level rise, Riverine floods, Transport, Energy supply, Energy demand, Labour productivity.</p>
+
+Authors:
+--------
+Parrado, Ramiro; Bosello, Francesco; Van der Wijst, Kaj-Ivar; Standardi, Gabriele
+
+.. meta::
+   :keywords: Damage Functions, Climate Change impacts, Policy effectiveness, Macroeconomic assessment, COACCH
+    

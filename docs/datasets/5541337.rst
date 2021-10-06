@@ -1,0 +1,23 @@
+
+.. This file is automaticaly generted. Do not edit.
+
+`Valuation of heat related mortality risk and tick-borne diseases <https://zenodo.org/record/5541337>`_
+=======================================================================================================
+
+.. image:: https://zenodo.org/badge/doi/10.5281/zenodo.5541337.svg
+   :target: https://doi.org/10.5281/zenodo.5541337
+
+Description:
+------------
+
+<p>Monetary impacts of premature mortality due to heat waves</p>
+
+<p>Preferences for public programmes against spread of ticks due to climate change and a new vaccine against Lyme disease, prevalence of tick-borne diseases and exposure to ticks</p>
+
+Authors:
+--------
+Iva Zvěřinová; Milan Ščasný; Vojtěch Máca; Anna Alberini
+
+.. meta::
+   :keywords: COACCH, heat waves, climate change, Value per Statistical Life, contingent valuation, premature mortality, prevalences of tick-borne diseases, vaccine, tick-borne encephalitis, Lyme disease
+    

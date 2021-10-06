@@ -1,0 +1,21 @@
+
+.. This file is automaticaly generted. Do not edit.
+
+`WP3-CT2 Alpine Glaciers Disappearance Tipping Point <https://zenodo.org/record/5549953>`_
+==========================================================================================
+
+.. image:: https://zenodo.org/badge/doi/10.5281/zenodo.5549953.svg
+   :target: https://doi.org/10.5281/zenodo.5549953
+
+Description:
+------------
+
+<p>Glaciers Length changes starting from small, medium, and large glaciers.</p>
+
+Authors:
+--------
+Peano, Daniele; Scoccimarro, Enrico
+
+.. meta::
+   :keywords: COACCH, Glacier, Climate Change, Tipping Point
+    
