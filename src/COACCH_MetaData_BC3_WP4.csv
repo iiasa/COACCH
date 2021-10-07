@@ -1,0 +1,12 @@
+Name,Entry date,Dataset version,Author/Contact person,Short description,Partner,Model type/method,Model,Model version,Documentation,Sector,Keywords,SSP,RCP,GCM,Variables and units,Time start,Time end,Time resolution,Spatial coverage,Spatial resolution unit Europe,Spatial resolution Rest of World,Spatial projection,Data type,File format,Recommended citation,Other comments
+"Dataset: Comparing urban coastal flood risk in 136 cities under RCP2.6, 4.5, 8.5 and a high-end SLR scenario",9/28/2021,v1,elisa.sainzdemurieta@bc3research.org,"The dataset contains sea-level rise projections, expected damages and risk data for RCP4.5 and RCP2.6 additionally to the RCP8.5 and the High-end scenario",BC3,"Geometric Brownian Model for stochastic analysis of damages.
+SLR modelling",,,,"""Infrastructure built environment and transport""","Regional sea-level rise, Probabilistic projections, Coastal cities, Damage risk, Ice-sheet melting risk, Unmitigated scenarios",-,"""RCP2.6""
+""RCP4.5""
+""RCP8.5""",-,"Damages (US$)
+Risk measures (VaR, ES, in US$)
+SLR (cm)",2020,2100,Decade,136 coastal megacities,City (urban agglomeration),-,-,-,Excel file,"Abadie, Luis M., Jackson, Luke P., Sainz de Murieta, Elisa, Jevrejeva, Svetlana, & Galarraga, Ibon. (2021). Additional dataset to ""Comparing urban coastal flood risk in 136 cities under two alternative sea-level projections: RCP 8.5 and an expert opinion-based high-end scenario"" [Data set]. Zenodo. https://doi.org/10.5281/zenodo.4733499",
+Risk measures and the distribution of damage curves for 600 European coastal cities,9/16/2021,v1,elisa.sainzdemurieta@bc3research.org,"Using a dataset of probabilistic sea-level rise and other of flood damages and protection cost curves for the 600 largest European coastal cities, stochastic damage curves and their distributions are calculated, with and without adaptation. ",BC3,Generalized Extreme Value (GEV) dis- tribution model,,,,"""Infrastructure built environment and transport""","sea level rise, risk measures, costs, adaptation in cities, Europe",,"""RCP2.6""
+""RCP4.5""
+""RCP8.5""",,"Damages and adaptation costs  (US$)
+Risk measures (VaR, ES, in US$)
+SLR (cm)",2030,2100,"2030, 2050, 2100",600 cities in Europe,City (urban agglomeration),-,-,-,Excel file,"Abadie, L.M., Galarraga, I., Markandya, A., Sainz de Murieta, E., 2019. Risk measures and the distribution of damage curves for 600 European coastal cities. Environmental Research Letters 14, 064021. https://doi.org/10.1088/1748-9326/ab185c",The dataset is published as the supplementary material to the article.

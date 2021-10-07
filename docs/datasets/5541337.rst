@@ -15,7 +15,7 @@ Monetary impacts of premature mortality due to heat waves
 Preferences for public programmes against spread of ticks due to climate change and a new vaccine against Lyme disease, prevalence of tick-borne diseases and exposure to ticks
 
 COACCH-Specific Metadata:
-=========================
+-------------------------
 
 - **Sector**: Health
 - **Partner**: CHARLES UNIVERSITY

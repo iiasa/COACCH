@@ -13,7 +13,7 @@ Description:
 Glaciers Length changes starting from small, medium, and large glaciers.
 
 COACCH-Specific Metadata:
-=========================
+-------------------------
 
 - **Sector**: Industry energy services and trade
 - **Partner**: CMCC

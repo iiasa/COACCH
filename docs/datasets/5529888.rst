@@ -19,7 +19,7 @@ Files include two adaptation assumptions: no additional adaptation and optimal a
 Units: millions EUR (2015) PPP.
 
 COACCH-Specific Metadata:
-=========================
+-------------------------
 
 - **Sector**: Direct impacts to built environment and infrastructure
 - **Partner**: IVM - VU
