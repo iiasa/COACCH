@@ -10,7 +10,7 @@
 Description:
 ------------
 
-<p>Climate change impacts on energy demand by energy carrier (electricity, natural gas, and petroleum) and sector (agriculture, industry, residential, and commercial).</p>
+Climate change impacts on energy demand by energy carrier (electricity, natural gas, and petroleum) and sector (agriculture, industry, residential, and commercial).
 
 Authors:
 --------

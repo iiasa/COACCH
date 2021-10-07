@@ -10,7 +10,7 @@
 Description:
 ------------
 
-<p>Expected annual river flood damages, flood insurance premiums, and insurance penetration rates, for EU-regions (NUTS2) and under future climatic and socio-economic conditions (RCP-SSP combinations).</p>
+Expected annual river flood damages, flood insurance premiums, and insurance penetration rates, for EU-regions (NUTS2) and under future climatic and socio-economic conditions (RCP-SSP combinations).
 
 COACCH-Specific Metadata:
 =========================

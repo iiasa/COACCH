@@ -10,13 +10,13 @@
 Description:
 ------------
 
-<p>Direct impacts of river flooding using the CLIMRISK-RIVER model. This includes&nbsp;direct impacts to built environment and infrastructure.</p>
+Direct impacts of river flooding using the CLIMRISK-RIVER model. This includesdirect impacts to built environment and infrastructure.
 
-<p>The damage is expressed as a change in expected annual damage (EAD) w.r.t. 2010.&nbsp;</p>
+The damage is expressed as a change in expected annual damage (EAD) w.r.t. 2010.
 
-<p>Files include two adaptation assumptions: no additional adaptation and optimal adaptation (using CBA estimates).</p>
+Files include two adaptation assumptions: no additional adaptation and optimal adaptation (using CBA estimates).
 
-<p>Units: millions EUR (2015) PPP.</p>
+Units: millions EUR (2015) PPP.
 
 COACCH-Specific Metadata:
 =========================

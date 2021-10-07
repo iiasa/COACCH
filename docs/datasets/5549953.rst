@@ -10,7 +10,7 @@
 Description:
 ------------
 
-<p>Glaciers Length changes starting from small, medium, and large glaciers.</p>
+Glaciers Length changes starting from small, medium, and large glaciers.
 
 COACCH-Specific Metadata:
 =========================

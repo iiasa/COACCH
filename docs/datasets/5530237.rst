@@ -10,15 +10,15 @@
 Description:
 ------------
 
-<p>Expected year in which climate impacts would exceed an extreme past economic shock value (95th percentile).</p>
+Expected year in which climate impacts would exceed an extreme past economic shock value (95th percentile).
 
-<p>Model used: CLIMRISK</p>
+Model used: CLIMRISK
 
-<p>Scale: 0.5 degrees * 0.5 degrees</p>
+Scale: 0.5 degrees * 0.5 degrees
 
-<p>Shock database consists of changes in annual GDP between 1950 - 2016.</p>
+Shock database consists of changes in annual GDP between 1950 - 2016.
 
-<p>Citation:&nbsp;Ignjacevic, Predrag, Francisco Estrada Porrua, and Willem Jan Wouter Botzen. &quot;Time of emergence of economic impacts of climate change.&quot;&nbsp;<em>Environmental Research Letters</em>&nbsp;(2021).</p>
+Citation:Ignjacevic, Predrag, Francisco Estrada Porrua, and Willem Jan Wouter Botzen. &quot;Time of emergence of economic impacts of climate change.&quot;Environmental Research Letters(2021).
 
 COACCH-Specific Metadata:
 =========================

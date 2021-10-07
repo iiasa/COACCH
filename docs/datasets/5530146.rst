@@ -10,7 +10,7 @@
 Description:
 ------------
 
-<p>Various risk measures of climate induced economic shocks using CLIMRISK. Metrics include year of exceeding 1 billion in climate damages, year of exceeding 5% annual GDP lost and a multivariate risk index (1 billion, 5% GDP and 3 degrees temperature exceedance).</p>
+Various risk measures of climate induced economic shocks using CLIMRISK. Metrics include year of exceeding 1 billion in climate damages, year of exceeding 5% annual GDP lost and a multivariate risk index (1 billion, 5% GDP and 3 degrees temperature exceedance).
 
 COACCH-Specific Metadata:
 =========================

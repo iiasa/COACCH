@@ -10,7 +10,7 @@
 Description:
 ------------
 
-<p>Macroeconomic assessment of impacts on: Agriculture, Fishery, Forestry, Sea level rise, Riverine floods, Transport, Energy supply, Energy demand, Labour productivity, plus compounded assessment of all impacts</p>
+Macroeconomic assessment of impacts on: Agriculture, Fishery, Forestry, Sea level rise, Riverine floods, Transport, Energy supply, Energy demand, Labour productivity, plus compounded assessment of all impacts
 
 COACCH-Specific Metadata:
 =========================

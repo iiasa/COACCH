@@ -10,7 +10,7 @@
 Description:
 ------------
 
-<p>Projected supply chain shocks due to extreme weather events measured in annual percentage change in a country-sector&#39;s export activity compared to the baseline period</p>
+Projected supply chain shocks due to extreme weather events measured in annual percentage change in a country-sector&#39;s export activity compared to the baseline period
 
 COACCH-Specific Metadata:
 =========================

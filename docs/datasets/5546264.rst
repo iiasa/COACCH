@@ -10,7 +10,7 @@
 Description:
 ------------
 
-<p>Reduced-form Climate Change Damage Functions of impacts on: Agriculture, Fishery, Forestry, Sea level rise, Riverine floods, Transport, Energy supply, Energy demand, Labour productivity.</p>
+Reduced-form Climate Change Damage Functions of impacts on: Agriculture, Fishery, Forestry, Sea level rise, Riverine floods, Transport, Energy supply, Energy demand, Labour productivity.
 
 COACCH-Specific Metadata:
 =========================

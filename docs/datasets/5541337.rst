@@ -10,9 +10,9 @@
 Description:
 ------------
 
-<p>Monetary impacts of premature mortality due to heat waves</p>
+Monetary impacts of premature mortality due to heat waves
 
-<p>Preferences for public programmes against spread of ticks due to climate change and a new vaccine against Lyme disease, prevalence of tick-borne diseases and exposure to ticks</p>
+Preferences for public programmes against spread of ticks due to climate change and a new vaccine against Lyme disease, prevalence of tick-borne diseases and exposure to ticks
 
 COACCH-Specific Metadata:
 =========================
