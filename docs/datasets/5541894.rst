@@ -17,7 +17,7 @@ COACCH-Specific Metadata:
 
 - **Sector**: Infrastructure built environment and transport
 - **Partner**: BC3
-- **SSP**: 
+- **SSP**: NA
 - **RCP**: RCP2.6, RCP4.5, RCP8.5
 - **Spatial resolution Europe**: City (urban agglomeration)
 - **Keywords**: sea level rise, risk measures, costs, adaptation in cities, Europe

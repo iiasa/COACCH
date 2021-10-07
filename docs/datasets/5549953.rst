@@ -17,7 +17,7 @@ COACCH-Specific Metadata:
 
 - **Sector**: Industry energy services and trade
 - **Partner**: CMCC
-- **SSP**: 
+- **SSP**: NA
 - **RCP**: RCP2.6
 - **Spatial resolution Europe**: ~11km
 - **Keywords**: Glacier, climate change, tipping point
