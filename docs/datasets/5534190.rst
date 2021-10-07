@@ -1,5 +1,5 @@
 
-.. This file is automaticaly generted. Do not edit.
+.. This file is automaticaly generated. Do not edit.
 
 `Riverine Flood Insurance assessment indicators under climate and socio-economic change <https://zenodo.org/record/5534190>`_
 =============================================================================================================================
@@ -11,6 +11,16 @@ Description:
 ------------
 
 <p>Expected annual river flood damages, flood insurance premiums, and insurance penetration rates, for EU-regions (NUTS2) and under future climatic and socio-economic conditions (RCP-SSP combinations).</p>
+
+COACCH-Specific Metadata:
+=========================
+
+- **Sector**: Infrastructure built environment and transport
+- **Partner**: STICHTING VU
+- **SSP**: SSP1, SSP2, SSP3, SSP5
+- **RCP**: RCP2.6, RCP4.5, RCP6.0, RCP8.5
+- **Spatial resolution Europe**: NUTS2
+- **Keywords**: Flood damage, insurance premiums, unaffordability, uptake, adaptation
 
 Authors:
 --------

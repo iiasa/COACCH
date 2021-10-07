@@ -1,5 +1,5 @@
 
-.. This file is automaticaly generted. Do not edit.
+.. This file is automaticaly generated. Do not edit.
 
 `River flooding impacts using CLIMRISK-RIVER <https://zenodo.org/record/5529888>`_
 ==================================================================================
@@ -17,6 +17,16 @@ Description:
 <p>Files include two adaptation assumptions: no additional adaptation and optimal adaptation (using CBA estimates).</p>
 
 <p>Units: millions EUR (2015) PPP.</p>
+
+COACCH-Specific Metadata:
+=========================
+
+- **Sector**: Direct impacts to built environment and infrastructure
+- **Partner**: IVM - VU
+- **SSP**: SSP1, SSP2, SSP3, SSP4, SSP5
+- **RCP**: RCP2.6, RCP4.5, RCP6.0, RCP8.5
+- **Spatial resolution Europe**: NUTS2 2013
+- **Keywords**: river flooding, river flood adaptation, glofris, flopros
 
 Authors:
 --------

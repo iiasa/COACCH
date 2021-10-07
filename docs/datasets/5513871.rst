@@ -1,5 +1,5 @@
 
-.. This file is automaticaly generted. Do not edit.
+.. This file is automaticaly generated. Do not edit.
 
 `ImpactChains_GLOBIOM <https://zenodo.org/record/5513871>`_
 ===========================================================
@@ -11,6 +11,17 @@ Description:
 ------------
 
 <p>Socio-economic and environmental impacts&nbsp;of gradual climate change on agriculture, forestry and fisheries calculated using the GLOBIOM model</p>
+
+COACCH-Specific Metadata:
+=========================
+
+- **Sector**: Agriculture, forestry and fisheries
+- **Partner**: IIASA
+- **SSP**: SSP1, SSP2, SSP3, SSP4, SSP5
+- **RCP**: RCP2.6, RCP4.5, 
+RCP6.0, RCP8.5
+- **Spatial resolution Europe**: NUTS2 2013
+- **Keywords**: gradual climate change, agriculture, forestry, fisheries, partial-equilibrium, socio-economic
 
 Authors:
 --------

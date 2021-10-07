@@ -1,5 +1,5 @@
 
-.. This file is automaticaly generted. Do not edit.
+.. This file is automaticaly generated. Do not edit.
 
 `Reduced-form Climate Change Damage Functions <https://zenodo.org/record/5546264>`_
 ===================================================================================
@@ -11,6 +11,16 @@ Description:
 ------------
 
 <p>Reduced-form Climate Change Damage Functions of impacts on: Agriculture, Fishery, Forestry, Sea level rise, Riverine floods, Transport, Energy supply, Energy demand, Labour productivity.</p>
+
+COACCH-Specific Metadata:
+=========================
+
+- **Sector**: Macro-economic
+- **Partner**: CMCC/PBL
+- **SSP**: NA
+- **RCP**: NA
+- **Spatial resolution Europe**: NUTS2 2013
+- **Keywords**: Macroeconomic assessment, Policy effectiveness,  Climate Change impacts
 
 Authors:
 --------

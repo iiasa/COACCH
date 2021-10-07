@@ -1,5 +1,5 @@
 
-.. This file is automaticaly generted. Do not edit.
+.. This file is automaticaly generated. Do not edit.
 
 `Supply Chain Shocks due to extreme weather events <https://zenodo.org/record/5541327>`_
 ========================================================================================
@@ -11,6 +11,16 @@ Description:
 ------------
 
 <p>Projected supply chain shocks due to extreme weather events measured in annual percentage change in a country-sector&#39;s export activity compared to the baseline period</p>
+
+COACCH-Specific Metadata:
+=========================
+
+- **Sector**: Industry energy services and trade
+- **Partner**: UNI GRAZ
+- **SSP**: SSP2
+- **RCP**: RCP2.6, RCP4.5
+- **Spatial resolution Europe**: Country
+- **Keywords**: supply chain shocks, extreme weather events, climate change
 
 Authors:
 --------

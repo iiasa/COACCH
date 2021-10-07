@@ -1,5 +1,5 @@
 
-.. This file is automaticaly generted. Do not edit.
+.. This file is automaticaly generated. Do not edit.
 
 `Time of emergence of climate change impacts <https://zenodo.org/record/5530237>`_
 ==================================================================================
@@ -19,6 +19,16 @@ Description:
 <p>Shock database consists of changes in annual GDP between 1950 - 2016.</p>
 
 <p>Citation:&nbsp;Ignjacevic, Predrag, Francisco Estrada Porrua, and Willem Jan Wouter Botzen. &quot;Time of emergence of economic impacts of climate change.&quot;&nbsp;<em>Environmental Research Letters</em>&nbsp;(2021).</p>
+
+COACCH-Specific Metadata:
+=========================
+
+- **Sector**: Direct impacts to all sectors
+- **Partner**: IVM - VU
+- **SSP**: SSP1, SSP2, SSP3, SSP4, SSP5
+- **RCP**: RCP2.6, RCP4.5, RCP6.0, RCP8.5
+- **Spatial resolution Europe**: NUTS2 2013
+- **Keywords**: CLIMRISK, time of emergence of climate change, time to adapt
 
 Authors:
 --------

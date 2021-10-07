@@ -1,5 +1,5 @@
 
-.. This file is automaticaly generted. Do not edit.
+.. This file is automaticaly generated. Do not edit.
 
 `Additional dataset to "Comparing urban coastal flood risk in 136 cities under two alternative sea-level projections: RCP 8.5 and an expert opinion-based high-end scenario" <https://zenodo.org/record/4733499>`_
 ==================================================================================================================================================================================================================

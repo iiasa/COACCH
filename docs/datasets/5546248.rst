@@ -1,5 +1,5 @@
 
-.. This file is automaticaly generted. Do not edit.
+.. This file is automaticaly generated. Do not edit.
 
 `Macroeconomic assessment of Climate Change Impacts <https://zenodo.org/record/5546248>`_
 =========================================================================================
@@ -11,6 +11,17 @@ Description:
 ------------
 
 <p>Macroeconomic assessment of impacts on: Agriculture, Fishery, Forestry, Sea level rise, Riverine floods, Transport, Energy supply, Energy demand, Labour productivity, plus compounded assessment of all impacts</p>
+
+COACCH-Specific Metadata:
+=========================
+
+- **Sector**: Macro-economic
+- **Partner**: CMCC
+- **SSP**: SSP1, SSP2, SSP3, SSP5
+- **RCP**: RCP2.6, RCP4.5, 
+RCP6.0, RCP8.5
+- **Spatial resolution Europe**: NUTS2 2013
+- **Keywords**: Macroeconomic assessment,  Climate Change impacts, General-equilibrium.
 
 Authors:
 --------
