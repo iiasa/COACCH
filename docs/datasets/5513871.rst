@@ -10,7 +10,7 @@
 Description:
 ------------
 
-Socio-economic and environmental impactsof gradual climate change on agriculture, forestry and fisheries calculated using the GLOBIOM model
+Socio-economic and environmental impacts of gradual climate change on agriculture, forestry and fisheries calculated using the GLOBIOM model
 
 COACCH-Specific Metadata:
 -------------------------

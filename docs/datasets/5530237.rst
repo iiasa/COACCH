@@ -18,7 +18,7 @@ Scale: 0.5 degrees * 0.5 degrees
 
 Shock database consists of changes in annual GDP between 1950 - 2016.
 
-Citation:Ignjacevic, Predrag, Francisco Estrada Porrua, and Willem Jan Wouter Botzen. &quot;Time of emergence of economic impacts of climate change.&quot;Environmental Research Letters(2021).
+Citation: Ignjacevic, Predrag, Francisco Estrada Porrua, and Willem Jan Wouter Botzen. &quot;Time of emergence of economic impacts of climate change.&quot; Environmental Research Letters (2021).
 
 COACCH-Specific Metadata:
 -------------------------

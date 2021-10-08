@@ -10,9 +10,9 @@
 Description:
 ------------
 
-Direct impacts of river flooding using the CLIMRISK-RIVER model. This includesdirect impacts to built environment and infrastructure.
+Direct impacts of river flooding using the CLIMRISK-RIVER model. This includes direct impacts to built environment and infrastructure.
 
-The damage is expressed as a change in expected annual damage (EAD) w.r.t. 2010.
+The damage is expressed as a change in expected annual damage (EAD) w.r.t. 2010. 
 
 Files include two adaptation assumptions: no additional adaptation and optimal adaptation (using CBA estimates).
 
