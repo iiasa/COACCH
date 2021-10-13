@@ -2,7 +2,7 @@ Tipping Points
 ==============
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
    ../datasets/5529732
