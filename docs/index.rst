@@ -1,4 +1,4 @@
-.. This markup defines the content of the main/first page of teh site.
+.. This markup defines the content of the main/first page of the site.
    This file can be edited, but do not remove the toctree directive.
 
 COACCH Data Repository
