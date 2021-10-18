@@ -20,8 +20,16 @@ Next to this data repository, a `Climate Change Impact Scenario Explorer <https:
    classes/tipping_points
    classes/policy_impact
    classes/other
-   acknowledgement
    disclaimer
+
+Acknowledgment
+==============
+
+.. image:: _static/Flag_of_Europe.svg
+   :align: left
+   :width: 100
+
+This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 776479. 
 
 Indices and tables
 ==================
