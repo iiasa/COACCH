@@ -16,6 +16,16 @@ Abadie, L.M., Jackson, L.P., Sainz de Murieta, E., Jevrejeva, S., Galarraga, I.,
 
 The file contains sea-level rise projections, expected damages and risk data for RCP4.5 and RCP2.6 additionally to the RCP8.5 and the High-end scenario provided in the aforementioned article. Also, we present the data for every decade from 2020 to 2100.
 
+COACCH-Specific Metadata:
+-------------------------
+
+- **Sector**: Infrastructure built environment and transport
+- **Partner**: BC3
+- **SSP**: -
+- **RCP**: RCP2.6, RCP4.5, RCP8.5
+- **Spatial resolution Europe**: City (urban agglomeration)
+- **Keywords**: Regional sea-level rise, Probabilistic projections, Coastal cities, Damage risk, Ice-sheet melting risk, Unmitigated scenarios
+
 Authors:
 --------
 Abadie, Luis M.; Jackson, Luke P.; Sainz de Murieta, Elisa; Jevrejeva, Svetlana; Galarraga, Ibon

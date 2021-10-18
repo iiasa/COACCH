@@ -15,12 +15,12 @@ Climate change impacts on energy demand by energy carrier (electricity, natural 
 COACCH-Specific Metadata:
 -------------------------
 
-- **Sector**: Infrastructure built environment and transport
-- **Partner**: BC3
-- **SSP**: NA
-- **RCP**: RCP2.6, RCP4.5, RCP8.5
-- **Spatial resolution Europe**: City (urban agglomeration)
-- **Keywords**: sea level rise, risk measures, costs, adaptation in cities, Europe
+- **Sector**: Energy demand
+- **Partner**: CMCC
+- **SSP**: SSP2
+- **RCP**: RCP2.6, RCP4.5, RCP6.0, RCP8.5
+- **Spatial resolution Europe**: NUTS2 2013
+- **Keywords**: climate change, energy demand, energy carrier, sectoral, socio-economic, econometrics
 
 Authors:
 --------
