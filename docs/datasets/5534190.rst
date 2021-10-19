@@ -4,6 +4,12 @@
 `Riverine Flood Insurance assessment indicators under climate and socio-economic change <https://zenodo.org/record/5534190>`_
 =============================================================================================================================
 
+.. index::
+   single: river flood damage
+   single: flood insurance
+   single: insurance penetration
+   single: climate change
+
 .. image:: https://zenodo.org/badge/doi/10.5281/zenodo.5534190.svg
    :target: https://doi.org/10.5281/zenodo.5534190
 

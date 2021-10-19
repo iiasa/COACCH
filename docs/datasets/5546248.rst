@@ -4,6 +4,13 @@
 `Macroeconomic assessment of Climate Change Impacts <https://zenodo.org/record/5546248>`_
 =========================================================================================
 
+.. index::
+   single: climate change impacts
+   single: macroeconomic assessment
+   single: computable general-equilibrium
+   single: subnational data
+   single: nuts level
+
 .. image:: https://zenodo.org/badge/doi/10.5281/zenodo.5546248.svg
    :target: https://doi.org/10.5281/zenodo.5546248
 

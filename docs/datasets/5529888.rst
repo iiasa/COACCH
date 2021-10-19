@@ -4,6 +4,13 @@
 `River flooding impacts using CLIMRISK-RIVER <https://zenodo.org/record/5529888>`_
 ==================================================================================
 
+.. index::
+   single: CLIMRISK-RIVER
+   single: GLOFRIS
+   single: river flooding
+   single: flood adaptation
+   single: flood proofing
+
 .. image:: https://zenodo.org/badge/doi/10.5281/zenodo.5529888.svg
    :target: https://doi.org/10.5281/zenodo.5529888
 

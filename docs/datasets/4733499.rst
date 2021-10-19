@@ -4,6 +4,14 @@
 `Additional dataset to "Comparing urban coastal flood risk in 136 cities under two alternative sea-level projections: RCP 8.5 and an expert opinion-based high-end scenario" <https://zenodo.org/record/4733499>`_
 ==================================================================================================================================================================================================================
 
+.. index::
+   single: regional sea-level rise
+   single: probabilistic projections
+   single: coastal cities
+   single: damage risk
+   single: ice-sheet melting risk
+   single: unmitigated scenarios
+
 .. image:: https://zenodo.org/badge/doi/10.5281/zenodo.4733499.svg
    :target: https://doi.org/10.5281/zenodo.4733499
 

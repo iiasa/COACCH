@@ -4,6 +4,15 @@
 `Valuation of heat related mortality risk and tick-borne diseases <https://zenodo.org/record/5541337>`_
 =======================================================================================================
 
+.. index::
+   single: heat waves
+   single: climate change
+   single: contingent valuation
+   single: premature mortality
+   single: vaccine
+   single: tick-borne encephalitis
+   single: lyme disease
+
 .. image:: https://zenodo.org/badge/doi/10.5281/zenodo.5541337.svg
    :target: https://doi.org/10.5281/zenodo.5541337
 

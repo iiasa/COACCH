@@ -4,6 +4,13 @@
 `ImpactChains_GLOBIOM <https://zenodo.org/record/5513871>`_
 ===========================================================
 
+.. index::
+   single: gradual climate change
+   single: agriculture
+   single: forestry
+   single: partial-equilibrium
+   single: socio-economic
+
 .. image:: https://zenodo.org/badge/doi/10.5281/zenodo.5513871.svg
    :target: https://doi.org/10.5281/zenodo.5513871
 

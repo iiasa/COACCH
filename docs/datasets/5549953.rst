@@ -4,6 +4,11 @@
 `WP3-CT2 Alpine Glaciers Disappearance Tipping Point <https://zenodo.org/record/5549953>`_
 ==========================================================================================
 
+.. index::
+   single: glacier
+   single: climate change
+   single: tipping point
+
 .. image:: https://zenodo.org/badge/doi/10.5281/zenodo.5549953.svg
    :target: https://doi.org/10.5281/zenodo.5549953
 

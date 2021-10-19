@@ -4,6 +4,10 @@
 `Supply Chain Shocks due to extreme weather events <https://zenodo.org/record/5541327>`_
 ========================================================================================
 
+.. index::
+   single: supply chains
+   single: extreme weather
+
 .. image:: https://zenodo.org/badge/doi/10.5281/zenodo.5541327.svg
    :target: https://doi.org/10.5281/zenodo.5541327
 
