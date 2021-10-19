@@ -21,6 +21,7 @@ Next to this data repository, a `Climate Change Impact Scenario Explorer <https:
    classes/policy_impact
    classes/other
    disclaimer
+   genindex
 
 Acknowledgment
 ==============
@@ -30,9 +31,3 @@ Acknowledgment
    :width: 100
 
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 776479. 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`search`
