@@ -4,34 +4,50 @@
 
 import os
 
-def rest_hit(hit, zenodo_type='dataset'):
-    """
-    Process a query hit and generate a ReST page.
-    """
+# Lowercase versions of keywords/phrases to exclude from the index
+_EXCLUDE_FROM_INDEX = [
+    'coacch',
+    'climate change',
+]
+
+def _extract_index_entries(hit):
+    """Collect index and clean-up index entries given a hit."""
+    entries = []
+    # Add any regular Zenodo keywords metadata to the entries
+    if 'metadata' in hit and 'keywords' in hit['metadata']:
+        entries += hit['metadata']['keywords']
+    # Add any COACCH metadata keywords to the entries
     if 'coacch' in hit and 'metadata_rows' in hit['coacch']:
         cm = hit['coacch']['metadata_rows'][0]
-        if 'keywords' in hit['metadata']:
-            # Compile a cleaned-up list of single index entries from the keywords
-            index_list = []
-            for keyword in hit['metadata']['keywords']:
-                if keyword.lower() in ['coacch', 'climate change']:
-                    # Exclude listed keywords
-                    continue
-                if keyword != keyword.upper():
-                    # Not all uppercase, not an acronym
-                    if len(keyword.split(" ")) > 3:
-                        # It's a long story, don't index.
-                        continue
-                    # Lower leading caps and mixed case
-                    keyword = keyword.lower()
-                # Add to index
-                index_list.append(f"   single: {keyword}")
-            index_list = '\n'.join(index_list)
-        else:
-            index_list = ''
-        # Define a templated ReST page for a hit _with_ COACCH metadata
-        # ----------------------- BEGIN TEMPLATE ----------------------
-        page = f"""
+        if 'keywords' in cm:
+            entries += cm['keywords']
+    # Retain unique non-exluded shortish entries case-independently
+    low_keep = []
+    keep = []
+    for entry in entries:
+        low_entry = entry.lower()
+        if low_entry in low_keep:
+            continue
+        if low_entry in _EXCLUDE_FROM_INDEX:
+            continue
+        if len(entry.split(" ")) > 3:
+            continue
+        low_keep += low_entry
+        keep += entry
+    entries = keep
+    # Lower the case of non-acronym or multi-word entries
+    for i,entry in enumerate(entries):
+        if entry != entry.upper() or len(entry.split(" ")) > 1:
+            entries[i] = entry.lower()
+    return entries
+
+def rest_hit(hit, zenodo_type='dataset'):
+    """Process a query hit to a nicely formatted ReST page."""
+    entries = _extract_index_entries(hit)
+    index_list = '\n'.join([f"   single: {e}" for e in entries])
+    # Define a templated ReST page for a hit _with_ COACCH metadata
+    # ----------------------- BEGIN TEMPLATE ----------------------
+    page = f"""
 .. This file is automaticaly generated. Do not edit.
 
 `{hit['metadata']['title']} <{hit['links']['html']}>`_
@@ -65,13 +81,13 @@ Authors:
 .. meta::
    :keywords: {'' if 'keywords' not in hit['metadata'] else ', '.join([keyword for keyword in hit['metadata']['keywords']])}
     """
-        # ----------------------- END TEMPLATE -------------------------
-    else:
-        raise Exception(f"Cannot generate ReST, no COACCH metadata for hit {hit['id']}!")
+    # ----------------------- END TEMPLATE -------------------------
+
     # Make sure that the output directory for the pages exists
     output_dir = f"../docs/{zenodo_type}s"
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
+
     # Write ReST page, basing the filename on the Zenodo ID   
     with open(f"{output_dir}/{hit['id']}.rst", "w", encoding = 'utf-8', newline = '\n') as rst:
         rst.write(page)
