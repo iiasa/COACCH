@@ -23,8 +23,7 @@ COACCH-Specific Metadata:
 - **Sector**: Agriculture
 - **Partner**: IIASA
 - **SSP**: NA
-- **RCP**: RCP2.6, RCP4.5, 
-RCP8.5
+- **RCP**: RCP2.6, RCP4.5, RCP8.5
 - **Spatial resolution Europe**: NUTS2 2013
 - **Keywords**: agriculture, crop modelling, extreme events
 

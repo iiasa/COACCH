@@ -25,8 +25,7 @@ COACCH-Specific Metadata:
 - **Sector**: Macro-economic
 - **Partner**: CMCC
 - **SSP**: SSP1, SSP2, SSP3, SSP5
-- **RCP**: RCP2.6, RCP4.5, 
-RCP6.0, RCP8.5
+- **RCP**: RCP2.6, RCP4.5, RCP6.0, RCP8.5
 - **Spatial resolution Europe**: NUTS2 2013
 - **Keywords**: Macroeconomic assessment,  Climate Change impacts, General-equilibrium.
 

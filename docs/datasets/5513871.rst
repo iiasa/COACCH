@@ -25,8 +25,7 @@ COACCH-Specific Metadata:
 - **Sector**: Agriculture, forestry and fisheries
 - **Partner**: IIASA
 - **SSP**: SSP1, SSP2, SSP3, SSP4, SSP5
-- **RCP**: RCP2.6, RCP4.5, 
-RCP6.0, RCP8.5
+- **RCP**: RCP2.6, RCP4.5, RCP6.0, RCP8.5
 - **Spatial resolution Europe**: NUTS2 2013
 - **Keywords**: gradual climate change, agriculture, forestry, fisheries, partial-equilibrium, socio-economic
 
