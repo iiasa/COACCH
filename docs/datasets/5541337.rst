@@ -6,7 +6,6 @@
 
 .. index::
    single: heat waves
-   single: climate change
    single: contingent valuation
    single: premature mortality
    single: vaccine

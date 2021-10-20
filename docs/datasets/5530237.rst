@@ -9,6 +9,7 @@
    single: time of emergence
    single: time to adapt
    single: climate adaptation
+   single: CLIMRISK
 
 .. image:: https://zenodo.org/badge/doi/10.5281/zenodo.5530237.svg
    :target: https://doi.org/10.5281/zenodo.5530237

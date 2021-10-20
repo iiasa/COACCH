@@ -8,6 +8,10 @@
    single: CLIMRISK
    single: climate risk-measures
    single: multivariate risk index
+   single: risk-measures
+   single: absolute risk
+   single: relative risk
+   single: multivariate risk indices
 
 .. image:: https://zenodo.org/badge/doi/10.5281/zenodo.5530146.svg
    :target: https://doi.org/10.5281/zenodo.5530146

@@ -5,7 +5,11 @@
 ==============================================================================
 
 .. index::
-
+   single: energy demand
+   single: energy carrier
+   single: sectoral
+   single: socio-economic
+   single: econometrics
 
 .. image:: https://zenodo.org/badge/doi/10.5281/zenodo.5541894.svg
    :target: https://doi.org/10.5281/zenodo.5541894
