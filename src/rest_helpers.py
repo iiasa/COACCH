@@ -13,14 +13,10 @@ _EXCLUDE_FROM_INDEX = [
 def _extract_index_entries(hit):
     """Collect index and clean-up index entries given a hit."""
     entries = []
-    # Add any regular Zenodo keywords metadata to the entries
-    if 'metadata' in hit and 'keywords' in hit['metadata']:
-        entries += hit['metadata']['keywords']
-    # Add any COACCH metadata keywords to the entries
-    if 'coacch' in hit and 'metadata_rows' in hit['coacch']:
-        cm = hit['coacch']['metadata_rows'][0]
-        if 'keywords' in cm:
-            entries += cm['keywords']
+    # Add regular Zenodo keywords metadata to the entries
+    entries += hit['metadata']['keywords']
+    # Add COACCH metadata keywords to the entries
+    entries += [keyword.strip() for keyword in hit['coacch']['metadata_rows'][0]['Keywords'].split(',')]
     # Retain unique non-exluded shortish entries case-independently
     low_keep = []
     keep = []
@@ -32,8 +28,8 @@ def _extract_index_entries(hit):
             continue
         if len(entry.split(" ")) > 3:
             continue
-        low_keep += low_entry
-        keep += entry
+        low_keep.append(low_entry)
+        keep.append(entry)
     entries = keep
     # Lower the case of non-acronym or multi-word entries
     for i,entry in enumerate(entries):
@@ -45,6 +41,7 @@ def rest_hit(hit, zenodo_type='dataset'):
     """Process a query hit to a nicely formatted ReST page."""
     entries = _extract_index_entries(hit)
     index_list = '\n'.join([f"   single: {e}" for e in entries])
+    cm = hit['coacch']['metadata_rows'][0] # COACCH metadata
     # Define a templated ReST page for a hit _with_ COACCH metadata
     # ----------------------- BEGIN TEMPLATE ----------------------
     page = f"""
