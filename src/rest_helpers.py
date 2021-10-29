@@ -37,7 +37,7 @@ def _extract_index_entries(hit):
             entries[i] = entry.lower()
     return entries
 
-def rest_hit(hit, zenodo_type='dataset'):
+def rest_hit(hit, page_dir):
     """Process a query hit to a nicely formatted ReST page."""
     entries = _extract_index_entries(hit)
     index_list = '\n'.join([f"   single: {e}" for e in entries])
@@ -80,12 +80,8 @@ Authors:
     """
     # ----------------------- END TEMPLATE -------------------------
 
-    # Make sure that the output directory for the pages exists
-    output_dir = f"../docs/{zenodo_type}s"
-    if not os.path.exists(output_dir):
-        os.makedirs(output_dir)
-
     # Write ReST page, basing the filename on the Zenodo ID   
-    with open(f"{output_dir}/{hit['id']}.rst", "w", encoding = 'utf-8', newline = '\n') as rst:
+    page_name = f"{hit['id']}.rst"
+    with open(f"{page_dir}/{page_name}", "w", encoding = 'utf-8', newline = '\n') as rst:
         rst.write(page)
-    return hit['id']
+    return page_name
