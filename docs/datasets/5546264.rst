@@ -10,7 +10,7 @@
    single: policy effectiveness
    single: macroeconomic assessment
 
-.. image:: https://zenodo.org/badge/doi/10.5281/zenodo.5546264.svg
+.. image:: ../_static/badges/zenodo.5546264.svg
    :target: https://doi.org/10.5281/zenodo.5546264
 
 Description:

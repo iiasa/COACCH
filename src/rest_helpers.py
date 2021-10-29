@@ -53,7 +53,7 @@ def rest_hit(hit, zenodo_type='dataset'):
 {'' if 'keywords' not in hit['metadata'] else '.. index::'}
 {index_list}
 
-.. image:: {hit['links']['badge']}
+.. image:: ../_static/badges/{hit['links']['badge'].rsplit('/', 1)[-1]}
    :target: {hit['links']['doi']}
 
 Description:

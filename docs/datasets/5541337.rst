@@ -12,7 +12,7 @@
    single: tick-borne encephalitis
    single: lyme disease
 
-.. image:: https://zenodo.org/badge/doi/10.5281/zenodo.5541337.svg
+.. image:: ../_static/badges/zenodo.5541337.svg
    :target: https://doi.org/10.5281/zenodo.5541337
 
 Description:

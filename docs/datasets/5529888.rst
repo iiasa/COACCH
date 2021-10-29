@@ -13,7 +13,7 @@
    single: river flood adaptation
    single: flopros
 
-.. image:: https://zenodo.org/badge/doi/10.5281/zenodo.5529888.svg
+.. image:: ../_static/badges/zenodo.5529888.svg
    :target: https://doi.org/10.5281/zenodo.5529888
 
 Description:

@@ -12,7 +12,7 @@
    single: ice-sheet melting risk
    single: unmitigated scenarios
 
-.. image:: https://zenodo.org/badge/doi/10.5281/zenodo.4733499.svg
+.. image:: ../_static/badges/zenodo.4733499.svg
    :target: https://doi.org/10.5281/zenodo.4733499
 
 Description:
