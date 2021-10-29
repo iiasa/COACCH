@@ -40,6 +40,8 @@ release = '1.0.0'
 extensions = [
     'sphinx_rtd_theme',
     'sphinx.ext.githubpages',
+    'sphinx.ext.imgconverter',
+    'sphinxcontrib.cairosvgconverter',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
