@@ -4,11 +4,32 @@
 
 import os
 
-# Lowercase versions of keywords/phrases to exclude from the index
+# Entries to exclude from index: too common, a-specific, or
+# obvious.
 _EXCLUDE_FROM_INDEX = [
+    'COACCH',
     'coacch',
     'climate change',
 ]
+
+def _normalize_index_entry_case(entry):
+    """Normalize the case of an index entry by lowercasing every word
+    other than all-uppercase words as these are presumably acronyms.
+    Words can be seperated by a space or dash. The normalized entry
+    and number of words are returned."""
+    words = 0
+    ses = []
+    for se in entry.split(' '):
+        des = []
+        for de in se.split('-'):
+            if de == de.upper():
+                # keep presumed acronym
+                des.append(de)
+            else:
+                des.append(de.lower())
+            words += 1
+        ses.append('-'.join(des))
+    return ' '.join(ses), words
 
 def _extract_index_entries(hit):
     """Collect index and clean-up index entries given a hit."""
@@ -17,25 +38,21 @@ def _extract_index_entries(hit):
     entries += hit['metadata']['keywords']
     # Add COACCH metadata keywords to the entries
     entries += [keyword.strip() for keyword in hit['coacch']['metadata_rows'][0]['Keywords'].split(',')]
-    # Retain unique non-exluded shortish entries case-independently
-    low_keep = []
+    # Normalize and retain unique non-excluded shortish entries
     keep = []
     for entry in entries:
-        low_entry = entry.lower()
-        if low_entry in low_keep:
+        entry, words = _normalize_index_entry_case(entry)
+        if words < 1 or words > 3 :
+            # Don't want empty or wordy index entries
             continue
-        if low_entry in _EXCLUDE_FROM_INDEX:
+        if entry in keep:
+            # Already have this entry
             continue
-        if len(entry.split(" ")) > 3:
+        if entry in _EXCLUDE_FROM_INDEX:
+            # Blacklisted
             continue
-        low_keep.append(low_entry)
         keep.append(entry)
-    entries = keep
-    # Lower the case of non-acronym or multi-word entries
-    for i,entry in enumerate(entries):
-        if entry != entry.upper() or len(entry.split(" ")) > 1:
-            entries[i] = entry.lower()
-    return entries
+    return keep
 
 def rest_hit(hit, page_dir):
     """Process a query hit to a nicely formatted ReST page."""
