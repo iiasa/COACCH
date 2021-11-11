@@ -5,6 +5,7 @@ import io
 import json
 import re
 import requests
+import time
 
 def get_nb_hits(json_response):
     return len(json_response['hits']['hits'])
@@ -50,7 +51,7 @@ def guess_encoding(file, n_lines=20):
         file.seek(0)
     else:
         # assume we were handed a file path
-        with open(file_path, 'rb') as f:
+        with open(file, 'rb') as f:
             # Join binary lines for specified number of lines
             rawdata = b''.join([f.readline() for _ in range(n_lines)])
 
