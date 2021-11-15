@@ -9,9 +9,10 @@ import os
 # Entries to exclude from index: too common, a-specific, or
 # obvious.
 _EXCLUDE_FROM_INDEX = [
-    'COACCH',
-    'coacch',
+    '',
     'climate change',
+    'coacch',
+    'COACCH',
 ]
 
 def _normalize_index_entry_case(entry):
