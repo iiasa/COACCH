@@ -37,26 +37,35 @@ def _extract_index_entries(hit):
     # Add regular Zenodo keywords metadata to the entries
     entries += hit['metadata']['keywords']
     # Add COACCH metadata keywords to the entries
-    entries += [keyword.strip() for keyword in hit['coacch']['metadata_rows'][0]['Keywords'].split(',')]
-    # Normalize and retain unique non-excluded shortish entries
+    cmr = hit['coacch']['metadata_rows'][0]
+    # entries += [keyword.strip() for keyword in hit['coacch']['metadata_rows'][0]['Keywords'].split(',')]
+    # Add further COACCH metadata fields as index entries
+    entries += cmr['Partner'] 
+    entries += cmr['Model type/method']
+    entries += cmr['Model']
+    entries += cmr['Sector']
+    # Normalize and keep unique non-excluded shortish entries
     keep = []
     for entry in entries:
         entry, words = _normalize_index_entry_case(entry)
         if words < 1 or words > 3 :
-            # Don't want empty or wordy index entries
+            # Don't want to keep empty or wordy index entries
             continue
         if entry in keep:
-            # Already have this entry
+            # Already kept a ditto entry
             continue
         if entry in _EXCLUDE_FROM_INDEX:
-            # Blacklisted
             continue
         keep.append(entry)
+    keep.sort()
     return keep
 
 def rest_hit(hit, page_dir):
     """Process a query hit to a nicely formatted ReST page."""
     entries = _extract_index_entries(hit)
+    print("What the entries")
+    print(type(entries))
+    print(entries)
     index_list = '\n'.join([f"   single: {e}" for e in entries])
     cm = hit['coacch']['metadata_rows'][0] # COACCH metadata
     # Define a templated ReST page for a hit _with_ COACCH metadata
@@ -102,3 +111,27 @@ Authors:
     with open(f"{page_dir}/{page_name}", "w", encoding = 'utf-8', newline = '\n') as rst:
         rst.write(page)
     return page_name
+
+# Test
+if __name__=="__main__":
+    assert _normalize_index_entry_case("Foo") == ("foo", 1)
+    assert _normalize_index_entry_case("FOO") == ("FOO", 1)
+    assert _normalize_index_entry_case("foo BAR") == ("foo BAR", 2)
+    assert _normalize_index_entry_case("FOO-bar") == ("FOO-bar", 2)
+    assert _normalize_index_entry_case("foo-bar bAz") == ("foo-bar baz", 3)
+    hit = {
+        'metadata': {
+            'keywords': ['foo', 'bar']
+        },
+        'coacch' : {
+            'metadata_rows': [
+                {
+                    'Partner': 'd',
+                    'Model type/method': 'c',
+                    'Model': 'b',
+                    'Sector': 'a'
+                }
+            ]
+        }
+    }
+    assert _extract_index_entries(hit) == ['a', 'b', 'bar', 'c', 'd', 'foo']
