@@ -4,16 +4,21 @@ Helper functions for generating ReST (reStructuredText) content.
 These should be adapted to project-specifics.
 """
 
+import re
 import os
 
 # Entries to exclude from index: too common, a-specific, or
 # obvious.
 _EXCLUDE_FROM_INDEX = [
-    '',
     'climate change',
     'coacch',
     'COACCH',
 ]
+
+# Regular expression that entries should much in oder to be included in
+# the index. This excludes weird things like empty strings, numbers,
+# and so on.
+_INCLUDE_REGEXP = re.compile('^[^\s\d!@#$%&*(){}|/].+')
 
 def _normalize_index_entry_case(entry):
     """Normalize the case of an index entry by lowercasing every word
@@ -39,6 +44,7 @@ def _extract_index_entries(hit):
     entries = []
     # Add regular Zenodo keywords metadata to the entries
     entries += hit['metadata']['keywords']
+    print(entries)
     # Add COACCH metadata keywords to the entries
     cmr = hit['coacch']['metadata_rows'][0]
     # entries += [keyword.strip() for keyword in hit['coacch']['metadata_rows'][0]['Keywords'].split(',')]
@@ -47,9 +53,12 @@ def _extract_index_entries(hit):
     entries.append(cmr['Model type/method'])
     entries.append(cmr['Model'])
     entries.append(cmr['Sector'])
+    print(entries)
     # Normalize and keep unique non-excluded shortish entries
     keep = []
     for entry in entries:
+        if _EXCLUDE_REGEXP.match(entry) is None:
+            continue
         entry, words = _normalize_index_entry_case(entry)
         if words < 1 or words > 3 :
             # Don't want to keep empty or wordy index entries
