@@ -13,6 +13,8 @@ _EXCLUDE_FROM_INDEX = [
     'climate change',
     'coacch',
     'COACCH',
+    'NA',
+    'N/A',
 ]
 
 # Regular expression that entries should much in oder to be included in
