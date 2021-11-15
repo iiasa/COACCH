@@ -42,10 +42,10 @@ def _extract_index_entries(hit):
     cmr = hit['coacch']['metadata_rows'][0]
     # entries += [keyword.strip() for keyword in hit['coacch']['metadata_rows'][0]['Keywords'].split(',')]
     # Add further COACCH metadata fields as index entries
-    entries += cmr['Partner'] 
-    entries += cmr['Model type/method']
-    entries += cmr['Model']
-    entries += cmr['Sector']
+    entries.append(cmr['Partner']) 
+    entries.append(cmr['Model type/method'])
+    entries.append(cmr['Model'])
+    entries.append(cmr['Sector'])
     # Normalize and keep unique non-excluded shortish entries
     keep = []
     for entry in entries:
@@ -123,7 +123,7 @@ if __name__=="__main__":
     assert _normalize_index_entry_case("foo-bar bAz") == ("foo-bar baz", 3)
     hit = {
         'metadata': {
-            'keywords': ['foo', 'bar']
+            'keywords': ['foo', 'bar', 'COACCH']
         },
         'coacch' : {
             'metadata_rows': [
@@ -131,9 +131,9 @@ if __name__=="__main__":
                     'Partner': 'd',
                     'Model type/method': 'c',
                     'Model': 'b',
-                    'Sector': 'a'
+                    'Sector': 'aa'
                 }
             ]
         }
     }
-    assert _extract_index_entries(hit) == ['a', 'b', 'bar', 'c', 'd', 'foo']
+    assert _extract_index_entries(hit) == ['aa', 'b', 'bar', 'c', 'd', 'foo']
