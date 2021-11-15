@@ -143,12 +143,12 @@ if __name__=="__main__":
             'metadata_rows': [
                 {
                     'Partner': 'd',
-                    'Model type/method': 'c',
+                    'Model type/method': 'cc',
                     'Model': 'b\tb',
                     'Sector': 'aa'
                 }
             ]
         }
     }
-    #assert _extract_index_entries(hit) == ['aa', 'b b', 'bar', 'c', 'd', 'foo']
+    assert _extract_index_entries(hit) == ['aa', 'b b', 'bar', 'cc', 'foo']
  
