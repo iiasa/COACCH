@@ -26,8 +26,7 @@ def _normalize_index_entry_case(entry):
     """Normalize the case of an index entry by lowercasing every word
     other than all-uppercase words as these are presumably acronyms.
     Words can be seperated by a space or dash. The normalized entry
-    and number of words are returned."""
-    words = 0
+    is returned."""
     ses = []
     for se in entry.split(' '):
         des = []
@@ -37,9 +36,8 @@ def _normalize_index_entry_case(entry):
                 des.append(de)
             else:
                 des.append(de.lower())
-            words += 1
         ses.append('-'.join(des))
-    return ' '.join(ses), words
+    return ' '.join(ses)
 
 def _extract_index_entries(hit):
     """Collect index and clean-up index entries given a hit."""
@@ -63,10 +61,10 @@ def _extract_index_entries(hit):
         # Ignore weird entries
         if _INCLUDE_REGEXP.match(entry) is None:
             continue
-        # Break up entry into words and normalize case
-        entry, words = _normalize_index_entry_case(entry)
-        if words < 1 or words > 3 :
-            # Don't want to keep empty or wordy index entries
+
+        entry = _normalize_index_entry_case(entry)
+        if entry.count(' ') > 3:
+            # Don't want to keep wordy index entries
             continue
         if entry in keep:
             # Already kept a ditto entry
