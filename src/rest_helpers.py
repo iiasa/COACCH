@@ -63,7 +63,7 @@ def _extract_index_entries(hit):
             continue
 
         entry = _normalize_index_entry_case(entry)
-        if entry.count(' ') > 3:
+        if entry.count(' ') >= 3:
             # Don't want to keep wordy index entries
             continue
         if entry in keep:
@@ -130,24 +130,25 @@ Authors:
 
 # Test
 if __name__=="__main__":
-    assert _normalize_index_entry_case("Foo") == ("foo", 1)
-    assert _normalize_index_entry_case("FOO") == ("FOO", 1)
-    assert _normalize_index_entry_case("foo BAR") == ("foo BAR", 2)
-    assert _normalize_index_entry_case("FOO-bar") == ("FOO-bar", 2)
-    assert _normalize_index_entry_case("foo-bar bAz") == ("foo-bar baz", 3)
+    assert _normalize_index_entry_case("Foo") == "foo"
+    assert _normalize_index_entry_case("FOO") == "FOO"
+    assert _normalize_index_entry_case("foo BAR") == "foo BAR"
+    assert _normalize_index_entry_case("FOO-bar") == "FOO-bar"
+    assert _normalize_index_entry_case("foo-bar bAz") == "foo-bar baz"
     hit = {
         'metadata': {
-            'keywords': ['foo', 'bar', 'COACCH']
+            'keywords': [' foo', 'bar ', 'COACCH', 'blah blah blah blah']
         },
         'coacch' : {
             'metadata_rows': [
                 {
                     'Partner': 'd',
                     'Model type/method': 'c',
-                    'Model': 'b',
+                    'Model': 'b\tb',
                     'Sector': 'aa'
                 }
             ]
         }
     }
-    assert _extract_index_entries(hit) == ['aa', 'b', 'bar', 'c', 'd', 'foo']
+    #assert _extract_index_entries(hit) == ['aa', 'b b', 'bar', 'c', 'd', 'foo']
+ 
