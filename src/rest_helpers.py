@@ -49,7 +49,6 @@ def _extract_index_entries(hit):
     print(entries)
     # Add COACCH metadata keywords to the entries
     cmr = hit['coacch']['metadata_rows'][0]
-    # entries += [keyword.strip() for keyword in hit['coacch']['metadata_rows'][0]['Keywords'].split(',')]
     # Add further COACCH metadata fields as index entries
     entries.append(cmr['Partner']) 
     entries.append(cmr['Model type/method'])
