@@ -1,4 +1,5 @@
-# Some helper functions for querying Zenodo datasets
+"""Helper functions for querying Zenodo datasets
+"""
 
 import chardet
 import io
@@ -33,7 +34,7 @@ def reget(url, params=None, **kwargs):
         del redacted_params['access_token'] # don't want to leak the token
         print(json.dumps(redacted_params, indent = 4))
     delay = 0.0
-    while True:  
+    while True:
         response = requests.get(url, params=params, **kwargs)
         if response.status_code != 429: # not too many requests
             return response

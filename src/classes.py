@@ -1,3 +1,8 @@
+"""Classify Zenodo uploads. Modify the classes dictionary below to
+manually classify Zenodo query hits via their Zenodo ID. The keys
+of the dictionary specify the classes and match the names of the
+ReST files to which the respective entries are added on generation.
+"""
 classes = {
     'climate_impact_assessment': [
         5513871,

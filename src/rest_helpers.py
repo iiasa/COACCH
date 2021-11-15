@@ -1,6 +1,8 @@
-# Helper functions for generating ReST (reStructuredText) content.
-#
-# These should be adapted to project-specifics.
+""""
+Helper functions for generating ReST (reStructuredText) content.
+
+These should be adapted to project-specifics.
+"""
 
 import os
 
@@ -106,7 +108,7 @@ Authors:
     """
     # ----------------------- END TEMPLATE -------------------------
 
-    # Write ReST page, basing the filename on the Zenodo ID   
+    # Write ReST page, basing the filename on the Zenodo ID
     page_name = f"{hit['id']}.rst"
     with open(f"{page_dir}/{page_name}", "w", encoding = 'utf-8', newline = '\n') as rst:
         rst.write(page)
