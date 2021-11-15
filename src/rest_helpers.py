@@ -46,7 +46,6 @@ def _extract_index_entries(hit):
     entries = []
     # Add regular Zenodo keywords metadata to the entries
     entries += hit['metadata']['keywords']
-    print(entries)
     # Add COACCH metadata keywords to the entries
     cmr = hit['coacch']['metadata_rows'][0]
     # Add further COACCH metadata fields as index entries
@@ -54,14 +53,15 @@ def _extract_index_entries(hit):
     entries.append(cmr['Model type/method'])
     entries.append(cmr['Model'])
     entries.append(cmr['Sector'])
-    print(entries)
     # Normalize and keep unique non-excluded shortish entries
     keep = []
     for entry in entries:
         # Strip leading and trailing whitespace
         entry = entry.strip()
+        # Convert all inner whitespace to single spaces
+        entry = re.sub('\s+', ' ', entry)
         # Ignore weird entries
-        if _EXCLUDE_REGEXP.match(entry) is None:
+        if _INCLUDE_REGEXP.match(entry) is None:
             continue
         # Break up entry into words and normalize case
         entry, words = _normalize_index_entry_case(entry)
