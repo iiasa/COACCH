@@ -58,8 +58,12 @@ def _extract_index_entries(hit):
     # Normalize and keep unique non-excluded shortish entries
     keep = []
     for entry in entries:
+        # Strip leading and trailing whitespace
+        entry = entry.strip()
+        # Ignore weird entries
         if _EXCLUDE_REGEXP.match(entry) is None:
             continue
+        # Break up entry into words and normalize case
         entry, words = _normalize_index_entry_case(entry)
         if words < 1 or words > 3 :
             # Don't want to keep empty or wordy index entries
@@ -68,6 +72,7 @@ def _extract_index_entries(hit):
             # Already kept a ditto entry
             continue
         if entry in _EXCLUDE_FROM_INDEX:
+            # Entry not wanted
             continue
         keep.append(entry)
     keep.sort()
