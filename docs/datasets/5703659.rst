@@ -1,0 +1,35 @@
+
+.. This file is automaticaly generated. Do not edit.
+
+`COACCH_D3_3_high_end_SLR <https://zenodo.org/record/5703659>`_
+===============================================================
+
+.. index::
+   single: DIVA
+   single: GCF
+
+.. image:: ../_static/badges/zenodo.5703659.svg
+   :target: https://doi.org/10.5281/zenodo.5703659
+
+Description:
+------------
+
+expected annual damages and protection cost under sea-level rise and socio-economic change
+
+COACCH-Specific Metadata:
+-------------------------
+
+- **Sector**: Infrastructure built environment and transport
+- **Partner**: GCF
+- **SSP**: SSP5
+- **RCP**: RCP8.5 high end scenario
+- **Spatial resolution Europe**: NUTS2
+- **Keywords**: Sea flood damages coastal adaptation
+
+Authors:
+--------
+Lincke, Daniel
+
+.. meta::
+   :keywords: COACCH
+    
