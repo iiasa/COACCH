@@ -5,12 +5,15 @@
 =======================================================================================================
 
 .. index::
-   single: heat waves
+   single: CHARLES UNIVERSITY
    single: contingent valuation
-   single: premature mortality
-   single: vaccine
-   single: tick-borne encephalitis
+   single: health
+   single: heat waves
    single: lyme disease
+   single: premature mortality
+   single: questionnaire survey estimate
+   single: tick-borne encephalitis
+   single: vaccine
 
 .. image:: ../_static/badges/zenodo.5541337.svg
    :target: https://doi.org/10.5281/zenodo.5541337

@@ -5,11 +5,12 @@
 ==================================================================================
 
 .. index::
-   single: toei
+   single: CLIMRISK
+   single: IVM - VU
+   single: climate adaptation
    single: time of emergence
    single: time to adapt
-   single: climate adaptation
-   single: CLIMRISK
+   single: toei
 
 .. image:: ../_static/badges/zenodo.5530237.svg
    :target: https://doi.org/10.5281/zenodo.5530237

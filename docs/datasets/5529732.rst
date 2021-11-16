@@ -5,9 +5,12 @@
 ================================================
 
 .. index::
+   single: EPIC
+   single: IIASA
    single: agriculture
    single: crop modelling
    single: extreme events
+   single: process-based crop model
 
 .. image:: ../_static/badges/zenodo.5529732.svg
    :target: https://doi.org/10.5281/zenodo.5529732

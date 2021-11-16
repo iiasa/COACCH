@@ -5,11 +5,9 @@
 ==============================================================================
 
 .. index::
-   single: energy demand
-   single: energy carrier
-   single: sectoral
-   single: socio-economic
+   single: CMCC
    single: econometrics
+   single: energy demand
 
 .. image:: ../_static/badges/zenodo.5541894.svg
    :target: https://doi.org/10.5281/zenodo.5541894

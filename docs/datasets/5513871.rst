@@ -5,12 +5,13 @@
 ===========================================================
 
 .. index::
-   single: gradual climate change
+   single: GLOBIOM
+   single: IIASA
    single: agriculture
    single: forestry
+   single: gradual climate change
    single: partial-equilibrium
    single: socio-economic
-   single: fisheries
 
 .. image:: ../_static/badges/zenodo.5513871.svg
    :target: https://doi.org/10.5281/zenodo.5513871

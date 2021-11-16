@@ -5,12 +5,15 @@
 =========================================================================================
 
 .. index::
+   single: CMCC
+   single: ICES
+   single: NUTS level
    single: climate change impacts
-   single: macroeconomic assessment
    single: computable general-equilibrium
+   single: general-equilibrium
+   single: macro-economic
+   single: macroeconomic assessment
    single: subnational data
-   single: nuts level
-   single: general-equilibrium.
 
 .. image:: ../_static/badges/zenodo.5546248.svg
    :target: https://doi.org/10.5281/zenodo.5546248

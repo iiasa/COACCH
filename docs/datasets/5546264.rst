@@ -5,10 +5,13 @@
 ===================================================================================
 
 .. index::
-   single: damage functions
+   single: CMCC/PBL
    single: climate change impacts
-   single: policy effectiveness
+   single: damage functions
+   single: macro-economic
    single: macroeconomic assessment
+   single: policy effectiveness
+   single: reduced-form damage function
 
 .. image:: ../_static/badges/zenodo.5546264.svg
    :target: https://doi.org/10.5281/zenodo.5546264

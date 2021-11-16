@@ -5,7 +5,9 @@
 ==========================================================================================
 
 .. index::
+   single: CMCC
    single: glacier
+   single: minimal glacier model
    single: tipping point
 
 .. image:: ../_static/badges/zenodo.5549953.svg

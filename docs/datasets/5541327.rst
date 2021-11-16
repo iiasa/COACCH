@@ -5,10 +5,10 @@
 ========================================================================================
 
 .. index::
-   single: supply chains
+   single: UNI GRAZ
+   single: econometrics
    single: extreme weather
-   single: supply chain shocks
-   single: extreme weather events
+   single: supply chains
 
 .. image:: ../_static/badges/zenodo.5541327.svg
    :target: https://doi.org/10.5281/zenodo.5541327

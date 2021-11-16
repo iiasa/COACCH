@@ -5,14 +5,11 @@
 =============================================================================================================================
 
 .. index::
-   single: river flood damage
+   single: STICHTING VU
    single: flood insurance
    single: insurance penetration
-   single: flood damage
-   single: insurance premiums
-   single: unaffordability
-   single: uptake
-   single: adaptation
+   single: partial equilibrium model
+   single: river flood damage
 
 .. image:: ../_static/badges/zenodo.5534190.svg
    :target: https://doi.org/10.5281/zenodo.5534190
