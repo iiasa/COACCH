@@ -14,6 +14,8 @@ def get_nb_hits(json_response):
 def get_next_link(json_response):
     return json_response['links'].get('next', None)
 
+_request_delay = 1.0 # A dynamic delay to work around Zenodo rate limiting (seconds)
+
 def reget(url, params=None, **kwargs):
     """
     Sends a GET request and resends it with increasing delays
@@ -33,14 +35,16 @@ def reget(url, params=None, **kwargs):
         redacted_params = params
         del redacted_params['access_token'] # don't want to leak the token
         print(json.dumps(redacted_params, indent = 4))
-    delay = 0.0
+    global _request_delay
+    _request_delay /= 1.5
+    time.sleep(_request_delay)
     while True:
         response = requests.get(url, params=params, **kwargs)
         if response.status_code != 429: # not too many requests
             return response
-        delay += 2
-        print(f"delay: {delay}s to circumvent rate limiting...")
-        time.sleep(delay)
+        _request_delay *= 1.5
+        print(f"delay: {_request_delay}s to circumvent rate limiting...")
+        time.sleep(_request_delay)
 
 def guess_encoding(file, n_lines=20):
     '''Guess a file's encoding using chardet'''
@@ -65,3 +69,9 @@ def strip_html_markup(html):
     html = re.sub(r'&gt;', '>', html)
     html = re.sub(r'&amp;', '&', html)
     return html
+
+# Test
+if __name__=="__main__":
+    # When this fails, you might be running without appropriate environment variables set:
+    # https://stackoverflow.com/questions/54828713/working-with-anaconda-in-visual-studio-code
+    reget("https://google.com")
