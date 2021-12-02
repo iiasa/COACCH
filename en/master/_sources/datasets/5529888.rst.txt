@@ -1,0 +1,46 @@
+
+.. This file is automaticaly generated. Do not edit.
+
+`River flooding impacts using CLIMRISK-RIVER <https://zenodo.org/record/5529888>`_
+==================================================================================
+
+.. index::
+   single: CLIMRISK
+   single: CLIMRISK-RIVER
+   single: GLOFRIS
+   single: IVM - VU
+   single: flood adaptation
+   single: flood proofing
+   single: river flooding
+
+.. image:: ../_static/badges/zenodo.5529888.svg
+   :target: https://doi.org/10.5281/zenodo.5529888
+
+Description:
+------------
+
+Direct impacts of river flooding using the CLIMRISK-RIVER model. This includes direct impacts to built environment and infrastructure.
+
+The damage is expressed as a change in expected annual damage (EAD) w.r.t. 2010. 
+
+Files include two adaptation assumptions: no additional adaptation and optimal adaptation (using CBA estimates).
+
+Units: millions EUR (2015) PPP.
+
+COACCH-Specific Metadata:
+-------------------------
+
+- **Sector**: Direct impacts to built environment and infrastructure
+- **Partner**: IVM - VU
+- **SSP**: SSP1, SSP2, SSP3, SSP4, SSP5
+- **RCP**: RCP2.6, RCP4.5, RCP6.0, RCP8.5
+- **Spatial resolution Europe**: NUTS2 2013
+- **Keywords**: river flooding, river flood adaptation, glofris, flopros
+
+Authors:
+--------
+Ignjacevic, Predrag
+
+.. meta::
+   :keywords: COACCH, CLIMRISK-RIVER, GLOFRIS, river flooding, flood adaptation, flood proofing
+    

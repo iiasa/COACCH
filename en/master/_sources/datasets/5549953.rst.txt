@@ -1,0 +1,37 @@
+
+.. This file is automaticaly generated. Do not edit.
+
+`WP3-CT2 Alpine Glaciers Disappearance Tipping Point <https://zenodo.org/record/5549953>`_
+==========================================================================================
+
+.. index::
+   single: CMCC
+   single: glacier
+   single: minimal glacier model
+   single: tipping point
+
+.. image:: ../_static/badges/zenodo.5549953.svg
+   :target: https://doi.org/10.5281/zenodo.5549953
+
+Description:
+------------
+
+Glaciers Length changes starting from small, medium, and large glaciers.
+
+COACCH-Specific Metadata:
+-------------------------
+
+- **Sector**: Industry energy services and trade
+- **Partner**: CMCC
+- **SSP**: NA
+- **RCP**: RCP2.6
+- **Spatial resolution Europe**: ~11km
+- **Keywords**: Glacier, climate change, tipping point
+
+Authors:
+--------
+Peano, Daniele; Scoccimarro, Enrico
+
+.. meta::
+   :keywords: COACCH, Glacier, Climate Change, Tipping Point
+    

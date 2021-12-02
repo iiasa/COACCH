@@ -1,0 +1,35 @@
+
+.. This file is automaticaly generated. Do not edit.
+
+`COACCH_D3_3_coastal_migration <https://zenodo.org/record/5703667>`_
+====================================================================
+
+.. index::
+   single: DIVA
+   single: GCF
+
+.. image:: ../_static/badges/zenodo.5703667.svg
+   :target: https://doi.org/10.5281/zenodo.5703667
+
+Description:
+------------
+
+expceted annual migration and expected annual total SLR cost under sea-level rise and socio-economic change
+
+COACCH-Specific Metadata:
+-------------------------
+
+- **Sector**: Infrastructure built environment and transport
+- **Partner**: GCF
+- **SSP**: SSP1, SSP2, SSP3, SSP5
+- **RCP**: RCP2.6, RCP4.5, RCP6.0, RCP8.5
+- **Spatial resolution Europe**: NUTS2
+- **Keywords**: Sea flood damages, coastal migaration, coastal adaptation
+
+Authors:
+--------
+Lincke, Daniel
+
+.. meta::
+   :keywords: COACCH, Sea flood damages, coastal migaration, coastal adaptation
+    

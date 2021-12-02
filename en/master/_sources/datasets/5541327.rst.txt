@@ -1,0 +1,37 @@
+
+.. This file is automaticaly generated. Do not edit.
+
+`Supply Chain Shocks due to extreme weather events <https://zenodo.org/record/5541327>`_
+========================================================================================
+
+.. index::
+   single: UNI GRAZ
+   single: econometrics
+   single: extreme weather
+   single: supply chains
+
+.. image:: ../_static/badges/zenodo.5541327.svg
+   :target: https://doi.org/10.5281/zenodo.5541327
+
+Description:
+------------
+
+Projected supply chain shocks due to extreme weather events measured in annual percentage change in a country-sector&#39;s export activity compared to the baseline period
+
+COACCH-Specific Metadata:
+-------------------------
+
+- **Sector**: Industry energy services and trade
+- **Partner**: UNI GRAZ
+- **SSP**: SSP2
+- **RCP**: RCP2.6, RCP4.5
+- **Spatial resolution Europe**: Country
+- **Keywords**: supply chain shocks, extreme weather events, climate change
+
+Authors:
+--------
+Borsky, Stefan
+
+.. meta::
+   :keywords: COACCH, supply chains, extreme weather
+    

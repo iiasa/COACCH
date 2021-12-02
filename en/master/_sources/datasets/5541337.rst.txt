@@ -1,0 +1,44 @@
+
+.. This file is automaticaly generated. Do not edit.
+
+`Valuation of heat related mortality risk and tick-borne diseases <https://zenodo.org/record/5541337>`_
+=======================================================================================================
+
+.. index::
+   single: CHARLES UNIVERSITY
+   single: contingent valuation
+   single: health
+   single: heat waves
+   single: lyme disease
+   single: premature mortality
+   single: questionnaire survey estimate
+   single: tick-borne encephalitis
+   single: vaccine
+
+.. image:: ../_static/badges/zenodo.5541337.svg
+   :target: https://doi.org/10.5281/zenodo.5541337
+
+Description:
+------------
+
+Monetary impacts of premature mortality due to heat waves
+
+Preferences for public programmes against spread of ticks due to climate change and a new vaccine against Lyme disease, prevalence of tick-borne diseases and exposure to ticks
+
+COACCH-Specific Metadata:
+-------------------------
+
+- **Sector**: Health
+- **Partner**: CHARLES UNIVERSITY
+- **SSP**: NA
+- **RCP**: RCP2.6; RCP4.5; RCP8.5
+- **Spatial resolution Europe**: European regions: Northern Europe (Denmark; Iceland; Finland; Norway; Sweden); Eastern Europe (Estonia; Hungary; Latvia; Lithuania; Romania; Slovakia; Poland); Central Europe (Austria; Czech Republic; Germany; Switzerland); Western Europe (Belgium; France; Ireland; Netherlands; Luxembourg; United Kingdom) and Southern Europe (Bulgaria; Croatia; Cyprus; Greece; Italy; Malta; Portugal; Slovenia; Spain); country
+- **Keywords**: Value per Statistical Life; monetary impacts; heat waves; climate change; premature mortality; socio-economic analysis
+
+Authors:
+--------
+Iva Zvěřinová; Milan Ščasný; Vojtěch Máca; Anna Alberini
+
+.. meta::
+   :keywords: COACCH, heat waves, climate change, Value per Statistical Life, contingent valuation, premature mortality, prevalences of tick-borne diseases, vaccine, tick-borne encephalitis, Lyme disease
+    

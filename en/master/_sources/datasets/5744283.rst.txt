@@ -1,0 +1,37 @@
+
+.. This file is automaticaly generated. Do not edit.
+
+`COACCH_D2.6_CT3 <https://zenodo.org/record/5744283>`_
+======================================================
+
+.. index::
+   single: BC3
+   single: climate change europe
+   single: heatwave risk
+   single: hotspot mapping
+
+.. image:: ../_static/badges/zenodo.5744283.svg
+   :target: https://doi.org/10.5281/zenodo.5744283
+
+Description:
+------------
+
+European Heat Wave risk in the near, mid-term and distant future, under the RCP4.5 - SSP2 and RCP8.5 - SSP5 scenarios
+
+COACCH-Specific Metadata:
+-------------------------
+
+- **Sector**: Future risks associated with heat waves
+- **Partner**: BC3
+- **SSP**: SSP2, SSP5
+- **RCP**: RCP4.5, RCP8.5
+- **Spatial resolution Europe**: ~12.5 km
+- **Keywords**: Heat Waves, climate, socio-economic, risk, population projections, vulnerability, exposure, hazard
+
+Authors:
+--------
+Marek Smid
+
+.. meta::
+   :keywords: heatwave risk, hotspot mapping, climate change Europe, COACCH
+    

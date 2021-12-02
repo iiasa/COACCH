@@ -1,0 +1,42 @@
+
+.. This file is automaticaly generated. Do not edit.
+
+`Macroeconomic assessment of Climate Change Impacts <https://zenodo.org/record/5546248>`_
+=========================================================================================
+
+.. index::
+   single: CMCC
+   single: ICES
+   single: NUTS level
+   single: climate change impacts
+   single: computable general-equilibrium
+   single: general-equilibrium
+   single: macro-economic
+   single: macroeconomic assessment
+   single: subnational data
+
+.. image:: ../_static/badges/zenodo.5546248.svg
+   :target: https://doi.org/10.5281/zenodo.5546248
+
+Description:
+------------
+
+Macroeconomic assessment of impacts on: Agriculture, Fishery, Forestry, Sea level rise, Riverine floods, Transport, Energy supply, Energy demand, Labour productivity, plus compounded assessment of all impacts
+
+COACCH-Specific Metadata:
+-------------------------
+
+- **Sector**: Macro-economic
+- **Partner**: CMCC
+- **SSP**: SSP1, SSP2, SSP3, SSP5
+- **RCP**: RCP2.6, RCP4.5, RCP6.0, RCP8.5
+- **Spatial resolution Europe**: NUTS2 2013
+- **Keywords**: Macroeconomic assessment,  Climate Change impacts, General-equilibrium.
+
+Authors:
+--------
+Parrado, Ramiro; Bosello, Francesco; Standardi, Gabriele
+
+.. meta::
+   :keywords: Climate Change impacts, Macroeconomic assessment, Computable General-equilibrium, COACCH, Subnational data, NUTS level
+    

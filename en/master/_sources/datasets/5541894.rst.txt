@@ -1,0 +1,36 @@
+
+.. This file is automaticaly generated. Do not edit.
+
+`Climate change impacts on energy demand <https://zenodo.org/record/5541894>`_
+==============================================================================
+
+.. index::
+   single: CMCC
+   single: econometrics
+   single: energy demand
+
+.. image:: ../_static/badges/zenodo.5541894.svg
+   :target: https://doi.org/10.5281/zenodo.5541894
+
+Description:
+------------
+
+Climate change impacts on energy demand by energy carrier (electricity, natural gas, and petroleum) and sector (agriculture, industry, residential, and commercial).
+
+COACCH-Specific Metadata:
+-------------------------
+
+- **Sector**: Energy demand
+- **Partner**: CMCC
+- **SSP**: SSP2
+- **RCP**: RCP2.6, RCP4.5, RCP6.0, RCP8.5
+- **Spatial resolution Europe**: NUTS2 2013
+- **Keywords**: climate change, energy demand, energy carrier, sectoral, socio-economic, econometrics
+
+Authors:
+--------
+Shouro Dasgupta
+
+.. meta::
+   :keywords: climate change, energy demand, energy carrier, sectoral, socio-economic, econometrics; COACCH
+    

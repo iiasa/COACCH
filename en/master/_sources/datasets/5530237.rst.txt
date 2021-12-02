@@ -1,0 +1,47 @@
+
+.. This file is automaticaly generated. Do not edit.
+
+`Time of emergence of climate change impacts <https://zenodo.org/record/5530237>`_
+==================================================================================
+
+.. index::
+   single: CLIMRISK
+   single: IVM - VU
+   single: climate adaptation
+   single: time of emergence
+   single: time to adapt
+   single: toei
+
+.. image:: ../_static/badges/zenodo.5530237.svg
+   :target: https://doi.org/10.5281/zenodo.5530237
+
+Description:
+------------
+
+Expected year in which climate impacts would exceed an extreme past economic shock value (95th percentile).
+
+Model used: CLIMRISK
+
+Scale: 0.5 degrees * 0.5 degrees
+
+Shock database consists of changes in annual GDP between 1950 - 2016.
+
+Citation: Ignjacevic, Predrag, Francisco Estrada Porrua, and Willem Jan Wouter Botzen. &quot;Time of emergence of economic impacts of climate change.&quot; Environmental Research Letters (2021).
+
+COACCH-Specific Metadata:
+-------------------------
+
+- **Sector**: Direct impacts to all sectors
+- **Partner**: IVM - VU
+- **SSP**: SSP1, SSP2, SSP3, SSP4, SSP5
+- **RCP**: RCP2.6, RCP4.5, RCP6.0, RCP8.5
+- **Spatial resolution Europe**: NUTS2 2013
+- **Keywords**: CLIMRISK, time of emergence of climate change, time to adapt
+
+Authors:
+--------
+Ignjacevic, Predrag
+
+.. meta::
+   :keywords: COACCH, ToEI, time of emergence, time to adapt, climate adaptation
+    

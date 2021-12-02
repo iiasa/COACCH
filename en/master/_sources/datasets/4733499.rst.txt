@@ -1,0 +1,44 @@
+
+.. This file is automaticaly generated. Do not edit.
+
+`Additional dataset to "Comparing urban coastal flood risk in 136 cities under two alternative sea-level projections: RCP 8.5 and an expert opinion-based high-end scenario" <https://zenodo.org/record/4733499>`_
+==================================================================================================================================================================================================================
+
+.. index::
+   single: BC3
+   single: coastal cities
+   single: damage risk
+   single: ice-sheet melting risk
+   single: probabilistic projections
+   single: regional sea-level rise
+   single: unmitigated scenarios
+
+.. image:: ../_static/badges/zenodo.4733499.svg
+   :target: https://doi.org/10.5281/zenodo.4733499
+
+Description:
+------------
+
+This dataset provides additional information to that included in:
+
+Abadie, L.M., Jackson, L.P., Sainz de Murieta, E., Jevrejeva, S., Galarraga, I., 2020. Comparing urban coastal flood risk in 136 cities under two alternative sea-level projections: RCP 8.5 and an expert opinion-based high-end scenario. Ocean & Coastal Management 193, 105249. https://doi.org/10.1016/j.ocecoaman.2020.105249
+
+The file contains sea-level rise projections, expected damages and risk data for RCP4.5 and RCP2.6 additionally to the RCP8.5 and the High-end scenario provided in the aforementioned article. Also, we present the data for every decade from 2020 to 2100.
+
+COACCH-Specific Metadata:
+-------------------------
+
+- **Sector**: Infrastructure built environment and transport
+- **Partner**: BC3
+- **SSP**: -
+- **RCP**: RCP2.6, RCP4.5, RCP8.5
+- **Spatial resolution Europe**: City (urban agglomeration)
+- **Keywords**: Regional sea-level rise, Probabilistic projections, Coastal cities, Damage risk, Ice-sheet melting risk, Unmitigated scenarios
+
+Authors:
+--------
+Abadie, Luis M.; Jackson, Luke P.; Sainz de Murieta, Elisa; Jevrejeva, Svetlana; Galarraga, Ibon
+
+.. meta::
+   :keywords: Regional sea-level rise, Probabilistic projections, Coastal cities, Damage risk, Ice-sheet melting risk, Unmitigated scenarios
+    
